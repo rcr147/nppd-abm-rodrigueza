@@ -1,0 +1,2161 @@
+weight_CDM,weight_HRF,weight_CRF,stormSeverity,rainfallSeverity,timeOfDay,self.evacuated_inside + self.evacuated_outside
+0.1,0.1,0.7999999999999999,1,Yellow,Daytime,570
+0.1,0.1,0.7999999999999999,1,Yellow,Daytime,570
+0.1,0.1,0.7999999999999999,1,Yellow,Daytime,570
+0.1,0.1,0.7999999999999999,1,Yellow,Daytime,570
+0.1,0.1,0.7999999999999999,1,Yellow,Daytime,570
+0.1,0.2,0.7,1,Yellow,Daytime,570
+0.1,0.2,0.7,1,Yellow,Daytime,570
+0.1,0.2,0.7,1,Yellow,Daytime,570
+0.1,0.2,0.7,1,Yellow,Daytime,570
+0.1,0.2,0.7,1,Yellow,Daytime,570
+0.1,0.30000000000000004,0.6,1,Yellow,Daytime,444
+0.1,0.30000000000000004,0.6,1,Yellow,Daytime,483
+0.1,0.30000000000000004,0.6,1,Yellow,Daytime,454
+0.1,0.30000000000000004,0.6,1,Yellow,Daytime,457
+0.1,0.30000000000000004,0.6,1,Yellow,Daytime,451
+0.1,0.4,0.5,1,Yellow,Daytime,4
+0.1,0.4,0.5,1,Yellow,Daytime,3
+0.1,0.4,0.5,1,Yellow,Daytime,3
+0.1,0.4,0.5,1,Yellow,Daytime,4
+0.1,0.4,0.5,1,Yellow,Daytime,3
+0.1,0.5,0.4,1,Yellow,Daytime,0
+0.1,0.5,0.4,1,Yellow,Daytime,3
+0.1,0.5,0.4,1,Yellow,Daytime,0
+0.1,0.5,0.4,1,Yellow,Daytime,0
+0.1,0.5,0.4,1,Yellow,Daytime,0
+0.1,0.6,0.30000000000000004,1,Yellow,Daytime,0
+0.1,0.6,0.30000000000000004,1,Yellow,Daytime,0
+0.1,0.6,0.30000000000000004,1,Yellow,Daytime,0
+0.1,0.6,0.30000000000000004,1,Yellow,Daytime,0
+0.1,0.6,0.30000000000000004,1,Yellow,Daytime,0
+0.1,0.7,0.2,1,Yellow,Daytime,0
+0.1,0.7,0.2,1,Yellow,Daytime,0
+0.1,0.7,0.2,1,Yellow,Daytime,0
+0.1,0.7,0.2,1,Yellow,Daytime,0
+0.1,0.7,0.2,1,Yellow,Daytime,0
+0.1,0.7999999999999999,0.1,1,Yellow,Daytime,0
+0.1,0.7999999999999999,0.1,1,Yellow,Daytime,0
+0.1,0.7999999999999999,0.1,1,Yellow,Daytime,0
+0.1,0.7999999999999999,0.1,1,Yellow,Daytime,0
+0.1,0.7999999999999999,0.1,1,Yellow,Daytime,0
+0.2,0.1,0.7,1,Yellow,Daytime,546
+0.2,0.1,0.7,1,Yellow,Daytime,544
+0.2,0.1,0.7,1,Yellow,Daytime,542
+0.2,0.1,0.7,1,Yellow,Daytime,542
+0.2,0.1,0.7,1,Yellow,Daytime,539
+0.2,0.2,0.6,1,Yellow,Daytime,54
+0.2,0.2,0.6,1,Yellow,Daytime,64
+0.2,0.2,0.6,1,Yellow,Daytime,60
+0.2,0.2,0.6,1,Yellow,Daytime,57
+0.2,0.2,0.6,1,Yellow,Daytime,58
+0.2,0.30000000000000004,0.5,1,Yellow,Daytime,0
+0.2,0.30000000000000004,0.5,1,Yellow,Daytime,0
+0.2,0.30000000000000004,0.5,1,Yellow,Daytime,0
+0.2,0.30000000000000004,0.5,1,Yellow,Daytime,0
+0.2,0.30000000000000004,0.5,1,Yellow,Daytime,0
+0.2,0.4,0.4,1,Yellow,Daytime,0
+0.2,0.4,0.4,1,Yellow,Daytime,0
+0.2,0.4,0.4,1,Yellow,Daytime,0
+0.2,0.4,0.4,1,Yellow,Daytime,0
+0.2,0.4,0.4,1,Yellow,Daytime,0
+0.2,0.5,0.30000000000000004,1,Yellow,Daytime,0
+0.2,0.5,0.30000000000000004,1,Yellow,Daytime,0
+0.2,0.5,0.30000000000000004,1,Yellow,Daytime,0
+0.2,0.5,0.30000000000000004,1,Yellow,Daytime,0
+0.2,0.5,0.30000000000000004,1,Yellow,Daytime,0
+0.2,0.6,0.2,1,Yellow,Daytime,0
+0.2,0.6,0.2,1,Yellow,Daytime,0
+0.2,0.6,0.2,1,Yellow,Daytime,0
+0.2,0.6,0.2,1,Yellow,Daytime,0
+0.2,0.6,0.2,1,Yellow,Daytime,0
+0.2,0.7,0.1,1,Yellow,Daytime,0
+0.2,0.7,0.1,1,Yellow,Daytime,0
+0.2,0.7,0.1,1,Yellow,Daytime,0
+0.2,0.7,0.1,1,Yellow,Daytime,0
+0.2,0.7,0.1,1,Yellow,Daytime,0
+0.30000000000000004,0.1,0.6,1,Yellow,Daytime,39
+0.30000000000000004,0.1,0.6,1,Yellow,Daytime,43
+0.30000000000000004,0.1,0.6,1,Yellow,Daytime,48
+0.30000000000000004,0.1,0.6,1,Yellow,Daytime,41
+0.30000000000000004,0.1,0.6,1,Yellow,Daytime,46
+0.30000000000000004,0.2,0.5,1,Yellow,Daytime,0
+0.30000000000000004,0.2,0.5,1,Yellow,Daytime,0
+0.30000000000000004,0.2,0.5,1,Yellow,Daytime,0
+0.30000000000000004,0.2,0.5,1,Yellow,Daytime,0
+0.30000000000000004,0.2,0.5,1,Yellow,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Yellow,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Yellow,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Yellow,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Yellow,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Yellow,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Yellow,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Yellow,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Yellow,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Yellow,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Yellow,Daytime,0
+0.30000000000000004,0.5,0.2,1,Yellow,Daytime,0
+0.30000000000000004,0.5,0.2,1,Yellow,Daytime,0
+0.30000000000000004,0.5,0.2,1,Yellow,Daytime,0
+0.30000000000000004,0.5,0.2,1,Yellow,Daytime,0
+0.30000000000000004,0.5,0.2,1,Yellow,Daytime,0
+0.30000000000000004,0.6,0.1,1,Yellow,Daytime,0
+0.30000000000000004,0.6,0.1,1,Yellow,Daytime,0
+0.30000000000000004,0.6,0.1,1,Yellow,Daytime,0
+0.30000000000000004,0.6,0.1,1,Yellow,Daytime,0
+0.30000000000000004,0.6,0.1,1,Yellow,Daytime,0
+0.4,0.1,0.5,1,Yellow,Daytime,0
+0.4,0.1,0.5,1,Yellow,Daytime,0
+0.4,0.1,0.5,1,Yellow,Daytime,0
+0.4,0.1,0.5,1,Yellow,Daytime,0
+0.4,0.1,0.5,1,Yellow,Daytime,0
+0.4,0.2,0.4,1,Yellow,Daytime,0
+0.4,0.2,0.4,1,Yellow,Daytime,0
+0.4,0.2,0.4,1,Yellow,Daytime,0
+0.4,0.2,0.4,1,Yellow,Daytime,0
+0.4,0.2,0.4,1,Yellow,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Yellow,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Yellow,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Yellow,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Yellow,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Yellow,Daytime,0
+0.4,0.4,0.2,1,Yellow,Daytime,0
+0.4,0.4,0.2,1,Yellow,Daytime,0
+0.4,0.4,0.2,1,Yellow,Daytime,0
+0.4,0.4,0.2,1,Yellow,Daytime,0
+0.4,0.4,0.2,1,Yellow,Daytime,0
+0.4,0.5,0.1,1,Yellow,Daytime,0
+0.4,0.5,0.1,1,Yellow,Daytime,0
+0.4,0.5,0.1,1,Yellow,Daytime,0
+0.4,0.5,0.1,1,Yellow,Daytime,0
+0.4,0.5,0.1,1,Yellow,Daytime,0
+0.5,0.1,0.4,1,Yellow,Daytime,0
+0.5,0.1,0.4,1,Yellow,Daytime,0
+0.5,0.1,0.4,1,Yellow,Daytime,0
+0.5,0.1,0.4,1,Yellow,Daytime,0
+0.5,0.1,0.4,1,Yellow,Daytime,0
+0.5,0.2,0.30000000000000004,1,Yellow,Daytime,0
+0.5,0.2,0.30000000000000004,1,Yellow,Daytime,0
+0.5,0.2,0.30000000000000004,1,Yellow,Daytime,0
+0.5,0.2,0.30000000000000004,1,Yellow,Daytime,0
+0.5,0.2,0.30000000000000004,1,Yellow,Daytime,0
+0.5,0.30000000000000004,0.2,1,Yellow,Daytime,0
+0.5,0.30000000000000004,0.2,1,Yellow,Daytime,0
+0.5,0.30000000000000004,0.2,1,Yellow,Daytime,0
+0.5,0.30000000000000004,0.2,1,Yellow,Daytime,0
+0.5,0.30000000000000004,0.2,1,Yellow,Daytime,0
+0.5,0.4,0.1,1,Yellow,Daytime,0
+0.5,0.4,0.1,1,Yellow,Daytime,0
+0.5,0.4,0.1,1,Yellow,Daytime,0
+0.5,0.4,0.1,1,Yellow,Daytime,0
+0.5,0.4,0.1,1,Yellow,Daytime,0
+0.6,0.1,0.30000000000000004,1,Yellow,Daytime,0
+0.6,0.1,0.30000000000000004,1,Yellow,Daytime,0
+0.6,0.1,0.30000000000000004,1,Yellow,Daytime,0
+0.6,0.1,0.30000000000000004,1,Yellow,Daytime,0
+0.6,0.1,0.30000000000000004,1,Yellow,Daytime,0
+0.6,0.2,0.2,1,Yellow,Daytime,0
+0.6,0.2,0.2,1,Yellow,Daytime,0
+0.6,0.2,0.2,1,Yellow,Daytime,0
+0.6,0.2,0.2,1,Yellow,Daytime,0
+0.6,0.2,0.2,1,Yellow,Daytime,0
+0.6,0.30000000000000004,0.1,1,Yellow,Daytime,0
+0.6,0.30000000000000004,0.1,1,Yellow,Daytime,0
+0.6,0.30000000000000004,0.1,1,Yellow,Daytime,0
+0.6,0.30000000000000004,0.1,1,Yellow,Daytime,0
+0.6,0.30000000000000004,0.1,1,Yellow,Daytime,0
+0.7,0.1,0.2,1,Yellow,Daytime,0
+0.7,0.1,0.2,1,Yellow,Daytime,0
+0.7,0.1,0.2,1,Yellow,Daytime,0
+0.7,0.1,0.2,1,Yellow,Daytime,0
+0.7,0.1,0.2,1,Yellow,Daytime,0
+0.7,0.2,0.1,1,Yellow,Daytime,0
+0.7,0.2,0.1,1,Yellow,Daytime,0
+0.7,0.2,0.1,1,Yellow,Daytime,0
+0.7,0.2,0.1,1,Yellow,Daytime,0
+0.7,0.2,0.1,1,Yellow,Daytime,0
+0.7999999999999999,0.1,0.1,1,Yellow,Daytime,0
+0.7999999999999999,0.1,0.1,1,Yellow,Daytime,0
+0.7999999999999999,0.1,0.1,1,Yellow,Daytime,0
+0.7999999999999999,0.1,0.1,1,Yellow,Daytime,0
+0.7999999999999999,0.1,0.1,1,Yellow,Daytime,0
+0.1,0.1,0.7999999999999999,1,Yellow,Night time,570
+0.1,0.1,0.7999999999999999,1,Yellow,Night time,570
+0.1,0.1,0.7999999999999999,1,Yellow,Night time,570
+0.1,0.1,0.7999999999999999,1,Yellow,Night time,570
+0.1,0.1,0.7999999999999999,1,Yellow,Night time,570
+0.1,0.2,0.7,1,Yellow,Night time,570
+0.1,0.2,0.7,1,Yellow,Night time,570
+0.1,0.2,0.7,1,Yellow,Night time,570
+0.1,0.2,0.7,1,Yellow,Night time,570
+0.1,0.2,0.7,1,Yellow,Night time,570
+0.1,0.30000000000000004,0.6,1,Yellow,Night time,570
+0.1,0.30000000000000004,0.6,1,Yellow,Night time,570
+0.1,0.30000000000000004,0.6,1,Yellow,Night time,570
+0.1,0.30000000000000004,0.6,1,Yellow,Night time,570
+0.1,0.30000000000000004,0.6,1,Yellow,Night time,570
+0.1,0.4,0.5,1,Yellow,Night time,551
+0.1,0.4,0.5,1,Yellow,Night time,552
+0.1,0.4,0.5,1,Yellow,Night time,552
+0.1,0.4,0.5,1,Yellow,Night time,551
+0.1,0.4,0.5,1,Yellow,Night time,546
+0.1,0.5,0.4,1,Yellow,Night time,487
+0.1,0.5,0.4,1,Yellow,Night time,504
+0.1,0.5,0.4,1,Yellow,Night time,486
+0.1,0.5,0.4,1,Yellow,Night time,491
+0.1,0.5,0.4,1,Yellow,Night time,485
+0.1,0.6,0.30000000000000004,1,Yellow,Night time,441
+0.1,0.6,0.30000000000000004,1,Yellow,Night time,478
+0.1,0.6,0.30000000000000004,1,Yellow,Night time,451
+0.1,0.6,0.30000000000000004,1,Yellow,Night time,455
+0.1,0.6,0.30000000000000004,1,Yellow,Night time,449
+0.1,0.7,0.2,1,Yellow,Night time,223
+0.1,0.7,0.2,1,Yellow,Night time,241
+0.1,0.7,0.2,1,Yellow,Night time,231
+0.1,0.7,0.2,1,Yellow,Night time,229
+0.1,0.7,0.2,1,Yellow,Night time,231
+0.1,0.7999999999999999,0.1,1,Yellow,Night time,0
+0.1,0.7999999999999999,0.1,1,Yellow,Night time,0
+0.1,0.7999999999999999,0.1,1,Yellow,Night time,0
+0.1,0.7999999999999999,0.1,1,Yellow,Night time,0
+0.1,0.7999999999999999,0.1,1,Yellow,Night time,0
+0.2,0.1,0.7,1,Yellow,Night time,570
+0.2,0.1,0.7,1,Yellow,Night time,570
+0.2,0.1,0.7,1,Yellow,Night time,570
+0.2,0.1,0.7,1,Yellow,Night time,570
+0.2,0.1,0.7,1,Yellow,Night time,570
+0.2,0.2,0.6,1,Yellow,Night time,535
+0.2,0.2,0.6,1,Yellow,Night time,539
+0.2,0.2,0.6,1,Yellow,Night time,537
+0.2,0.2,0.6,1,Yellow,Night time,533
+0.2,0.2,0.6,1,Yellow,Night time,530
+0.2,0.30000000000000004,0.5,1,Yellow,Night time,268
+0.2,0.30000000000000004,0.5,1,Yellow,Night time,295
+0.2,0.30000000000000004,0.5,1,Yellow,Night time,286
+0.2,0.30000000000000004,0.5,1,Yellow,Night time,288
+0.2,0.30000000000000004,0.5,1,Yellow,Night time,285
+0.2,0.4,0.4,1,Yellow,Night time,46
+0.2,0.4,0.4,1,Yellow,Night time,64
+0.2,0.4,0.4,1,Yellow,Night time,56
+0.2,0.4,0.4,1,Yellow,Night time,50
+0.2,0.4,0.4,1,Yellow,Night time,54
+0.2,0.5,0.30000000000000004,1,Yellow,Night time,5
+0.2,0.5,0.30000000000000004,1,Yellow,Night time,14
+0.2,0.5,0.30000000000000004,1,Yellow,Night time,9
+0.2,0.5,0.30000000000000004,1,Yellow,Night time,7
+0.2,0.5,0.30000000000000004,1,Yellow,Night time,5
+0.2,0.6,0.2,1,Yellow,Night time,4
+0.2,0.6,0.2,1,Yellow,Night time,3
+0.2,0.6,0.2,1,Yellow,Night time,2
+0.2,0.6,0.2,1,Yellow,Night time,3
+0.2,0.6,0.2,1,Yellow,Night time,3
+0.2,0.7,0.1,1,Yellow,Night time,0
+0.2,0.7,0.1,1,Yellow,Night time,0
+0.2,0.7,0.1,1,Yellow,Night time,0
+0.2,0.7,0.1,1,Yellow,Night time,0
+0.2,0.7,0.1,1,Yellow,Night time,0
+0.30000000000000004,0.1,0.6,1,Yellow,Night time,58
+0.30000000000000004,0.1,0.6,1,Yellow,Night time,60
+0.30000000000000004,0.1,0.6,1,Yellow,Night time,58
+0.30000000000000004,0.1,0.6,1,Yellow,Night time,58
+0.30000000000000004,0.1,0.6,1,Yellow,Night time,60
+0.30000000000000004,0.2,0.5,1,Yellow,Night time,38
+0.30000000000000004,0.2,0.5,1,Yellow,Night time,46
+0.30000000000000004,0.2,0.5,1,Yellow,Night time,48
+0.30000000000000004,0.2,0.5,1,Yellow,Night time,43
+0.30000000000000004,0.2,0.5,1,Yellow,Night time,46
+0.30000000000000004,0.30000000000000004,0.4,1,Yellow,Night time,2
+0.30000000000000004,0.30000000000000004,0.4,1,Yellow,Night time,0
+0.30000000000000004,0.30000000000000004,0.4,1,Yellow,Night time,2
+0.30000000000000004,0.30000000000000004,0.4,1,Yellow,Night time,1
+0.30000000000000004,0.30000000000000004,0.4,1,Yellow,Night time,1
+0.30000000000000004,0.4,0.30000000000000004,1,Yellow,Night time,0
+0.30000000000000004,0.4,0.30000000000000004,1,Yellow,Night time,0
+0.30000000000000004,0.4,0.30000000000000004,1,Yellow,Night time,0
+0.30000000000000004,0.4,0.30000000000000004,1,Yellow,Night time,0
+0.30000000000000004,0.4,0.30000000000000004,1,Yellow,Night time,0
+0.30000000000000004,0.5,0.2,1,Yellow,Night time,0
+0.30000000000000004,0.5,0.2,1,Yellow,Night time,0
+0.30000000000000004,0.5,0.2,1,Yellow,Night time,0
+0.30000000000000004,0.5,0.2,1,Yellow,Night time,0
+0.30000000000000004,0.5,0.2,1,Yellow,Night time,0
+0.30000000000000004,0.6,0.1,1,Yellow,Night time,0
+0.30000000000000004,0.6,0.1,1,Yellow,Night time,0
+0.30000000000000004,0.6,0.1,1,Yellow,Night time,0
+0.30000000000000004,0.6,0.1,1,Yellow,Night time,0
+0.30000000000000004,0.6,0.1,1,Yellow,Night time,0
+0.4,0.1,0.5,1,Yellow,Night time,0
+0.4,0.1,0.5,1,Yellow,Night time,0
+0.4,0.1,0.5,1,Yellow,Night time,0
+0.4,0.1,0.5,1,Yellow,Night time,0
+0.4,0.1,0.5,1,Yellow,Night time,0
+0.4,0.2,0.4,1,Yellow,Night time,0
+0.4,0.2,0.4,1,Yellow,Night time,0
+0.4,0.2,0.4,1,Yellow,Night time,0
+0.4,0.2,0.4,1,Yellow,Night time,0
+0.4,0.2,0.4,1,Yellow,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Yellow,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Yellow,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Yellow,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Yellow,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Yellow,Night time,0
+0.4,0.4,0.2,1,Yellow,Night time,0
+0.4,0.4,0.2,1,Yellow,Night time,0
+0.4,0.4,0.2,1,Yellow,Night time,0
+0.4,0.4,0.2,1,Yellow,Night time,0
+0.4,0.4,0.2,1,Yellow,Night time,0
+0.4,0.5,0.1,1,Yellow,Night time,0
+0.4,0.5,0.1,1,Yellow,Night time,0
+0.4,0.5,0.1,1,Yellow,Night time,0
+0.4,0.5,0.1,1,Yellow,Night time,0
+0.4,0.5,0.1,1,Yellow,Night time,0
+0.5,0.1,0.4,1,Yellow,Night time,0
+0.5,0.1,0.4,1,Yellow,Night time,0
+0.5,0.1,0.4,1,Yellow,Night time,0
+0.5,0.1,0.4,1,Yellow,Night time,0
+0.5,0.1,0.4,1,Yellow,Night time,0
+0.5,0.2,0.30000000000000004,1,Yellow,Night time,0
+0.5,0.2,0.30000000000000004,1,Yellow,Night time,0
+0.5,0.2,0.30000000000000004,1,Yellow,Night time,0
+0.5,0.2,0.30000000000000004,1,Yellow,Night time,0
+0.5,0.2,0.30000000000000004,1,Yellow,Night time,0
+0.5,0.30000000000000004,0.2,1,Yellow,Night time,0
+0.5,0.30000000000000004,0.2,1,Yellow,Night time,0
+0.5,0.30000000000000004,0.2,1,Yellow,Night time,0
+0.5,0.30000000000000004,0.2,1,Yellow,Night time,0
+0.5,0.30000000000000004,0.2,1,Yellow,Night time,0
+0.5,0.4,0.1,1,Yellow,Night time,0
+0.5,0.4,0.1,1,Yellow,Night time,0
+0.5,0.4,0.1,1,Yellow,Night time,0
+0.5,0.4,0.1,1,Yellow,Night time,0
+0.5,0.4,0.1,1,Yellow,Night time,0
+0.6,0.1,0.30000000000000004,1,Yellow,Night time,0
+0.6,0.1,0.30000000000000004,1,Yellow,Night time,0
+0.6,0.1,0.30000000000000004,1,Yellow,Night time,0
+0.6,0.1,0.30000000000000004,1,Yellow,Night time,0
+0.6,0.1,0.30000000000000004,1,Yellow,Night time,0
+0.6,0.2,0.2,1,Yellow,Night time,0
+0.6,0.2,0.2,1,Yellow,Night time,0
+0.6,0.2,0.2,1,Yellow,Night time,0
+0.6,0.2,0.2,1,Yellow,Night time,0
+0.6,0.2,0.2,1,Yellow,Night time,0
+0.6,0.30000000000000004,0.1,1,Yellow,Night time,0
+0.6,0.30000000000000004,0.1,1,Yellow,Night time,0
+0.6,0.30000000000000004,0.1,1,Yellow,Night time,0
+0.6,0.30000000000000004,0.1,1,Yellow,Night time,0
+0.6,0.30000000000000004,0.1,1,Yellow,Night time,0
+0.7,0.1,0.2,1,Yellow,Night time,0
+0.7,0.1,0.2,1,Yellow,Night time,0
+0.7,0.1,0.2,1,Yellow,Night time,0
+0.7,0.1,0.2,1,Yellow,Night time,0
+0.7,0.1,0.2,1,Yellow,Night time,0
+0.7,0.2,0.1,1,Yellow,Night time,0
+0.7,0.2,0.1,1,Yellow,Night time,0
+0.7,0.2,0.1,1,Yellow,Night time,0
+0.7,0.2,0.1,1,Yellow,Night time,0
+0.7,0.2,0.1,1,Yellow,Night time,0
+0.7999999999999999,0.1,0.1,1,Yellow,Night time,0
+0.7999999999999999,0.1,0.1,1,Yellow,Night time,0
+0.7999999999999999,0.1,0.1,1,Yellow,Night time,0
+0.7999999999999999,0.1,0.1,1,Yellow,Night time,0
+0.7999999999999999,0.1,0.1,1,Yellow,Night time,0
+0.1,0.1,0.7999999999999999,1,Orange,Daytime,570
+0.1,0.1,0.7999999999999999,1,Orange,Daytime,570
+0.1,0.1,0.7999999999999999,1,Orange,Daytime,570
+0.1,0.1,0.7999999999999999,1,Orange,Daytime,570
+0.1,0.1,0.7999999999999999,1,Orange,Daytime,570
+0.1,0.2,0.7,1,Orange,Daytime,570
+0.1,0.2,0.7,1,Orange,Daytime,570
+0.1,0.2,0.7,1,Orange,Daytime,570
+0.1,0.2,0.7,1,Orange,Daytime,570
+0.1,0.2,0.7,1,Orange,Daytime,570
+0.1,0.30000000000000004,0.6,1,Orange,Daytime,510
+0.1,0.30000000000000004,0.6,1,Orange,Daytime,521
+0.1,0.30000000000000004,0.6,1,Orange,Daytime,508
+0.1,0.30000000000000004,0.6,1,Orange,Daytime,513
+0.1,0.30000000000000004,0.6,1,Orange,Daytime,508
+0.1,0.4,0.5,1,Orange,Daytime,49
+0.1,0.4,0.5,1,Orange,Daytime,69
+0.1,0.4,0.5,1,Orange,Daytime,66
+0.1,0.4,0.5,1,Orange,Daytime,58
+0.1,0.4,0.5,1,Orange,Daytime,59
+0.1,0.5,0.4,1,Orange,Daytime,1
+0.1,0.5,0.4,1,Orange,Daytime,3
+0.1,0.5,0.4,1,Orange,Daytime,0
+0.1,0.5,0.4,1,Orange,Daytime,0
+0.1,0.5,0.4,1,Orange,Daytime,2
+0.1,0.6,0.30000000000000004,1,Orange,Daytime,0
+0.1,0.6,0.30000000000000004,1,Orange,Daytime,3
+0.1,0.6,0.30000000000000004,1,Orange,Daytime,0
+0.1,0.6,0.30000000000000004,1,Orange,Daytime,0
+0.1,0.6,0.30000000000000004,1,Orange,Daytime,0
+0.1,0.7,0.2,1,Orange,Daytime,0
+0.1,0.7,0.2,1,Orange,Daytime,0
+0.1,0.7,0.2,1,Orange,Daytime,0
+0.1,0.7,0.2,1,Orange,Daytime,0
+0.1,0.7,0.2,1,Orange,Daytime,0
+0.1,0.7999999999999999,0.1,1,Orange,Daytime,0
+0.1,0.7999999999999999,0.1,1,Orange,Daytime,0
+0.1,0.7999999999999999,0.1,1,Orange,Daytime,0
+0.1,0.7999999999999999,0.1,1,Orange,Daytime,0
+0.1,0.7999999999999999,0.1,1,Orange,Daytime,0
+0.2,0.1,0.7,1,Orange,Daytime,568
+0.2,0.1,0.7,1,Orange,Daytime,563
+0.2,0.1,0.7,1,Orange,Daytime,565
+0.2,0.1,0.7,1,Orange,Daytime,565
+0.2,0.1,0.7,1,Orange,Daytime,564
+0.2,0.2,0.6,1,Orange,Daytime,230
+0.2,0.2,0.6,1,Orange,Daytime,244
+0.2,0.2,0.6,1,Orange,Daytime,228
+0.2,0.2,0.6,1,Orange,Daytime,230
+0.2,0.2,0.6,1,Orange,Daytime,237
+0.2,0.30000000000000004,0.5,1,Orange,Daytime,3
+0.2,0.30000000000000004,0.5,1,Orange,Daytime,2
+0.2,0.30000000000000004,0.5,1,Orange,Daytime,2
+0.2,0.30000000000000004,0.5,1,Orange,Daytime,3
+0.2,0.30000000000000004,0.5,1,Orange,Daytime,1
+0.2,0.4,0.4,1,Orange,Daytime,0
+0.2,0.4,0.4,1,Orange,Daytime,0
+0.2,0.4,0.4,1,Orange,Daytime,0
+0.2,0.4,0.4,1,Orange,Daytime,0
+0.2,0.4,0.4,1,Orange,Daytime,0
+0.2,0.5,0.30000000000000004,1,Orange,Daytime,0
+0.2,0.5,0.30000000000000004,1,Orange,Daytime,0
+0.2,0.5,0.30000000000000004,1,Orange,Daytime,0
+0.2,0.5,0.30000000000000004,1,Orange,Daytime,0
+0.2,0.5,0.30000000000000004,1,Orange,Daytime,0
+0.2,0.6,0.2,1,Orange,Daytime,0
+0.2,0.6,0.2,1,Orange,Daytime,0
+0.2,0.6,0.2,1,Orange,Daytime,0
+0.2,0.6,0.2,1,Orange,Daytime,0
+0.2,0.6,0.2,1,Orange,Daytime,0
+0.2,0.7,0.1,1,Orange,Daytime,0
+0.2,0.7,0.1,1,Orange,Daytime,0
+0.2,0.7,0.1,1,Orange,Daytime,0
+0.2,0.7,0.1,1,Orange,Daytime,0
+0.2,0.7,0.1,1,Orange,Daytime,0
+0.30000000000000004,0.1,0.6,1,Orange,Daytime,50
+0.30000000000000004,0.1,0.6,1,Orange,Daytime,51
+0.30000000000000004,0.1,0.6,1,Orange,Daytime,54
+0.30000000000000004,0.1,0.6,1,Orange,Daytime,49
+0.30000000000000004,0.1,0.6,1,Orange,Daytime,52
+0.30000000000000004,0.2,0.5,1,Orange,Daytime,0
+0.30000000000000004,0.2,0.5,1,Orange,Daytime,0
+0.30000000000000004,0.2,0.5,1,Orange,Daytime,0
+0.30000000000000004,0.2,0.5,1,Orange,Daytime,0
+0.30000000000000004,0.2,0.5,1,Orange,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Orange,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Orange,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Orange,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Orange,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Orange,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Orange,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Orange,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Orange,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Orange,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Orange,Daytime,0
+0.30000000000000004,0.5,0.2,1,Orange,Daytime,0
+0.30000000000000004,0.5,0.2,1,Orange,Daytime,0
+0.30000000000000004,0.5,0.2,1,Orange,Daytime,0
+0.30000000000000004,0.5,0.2,1,Orange,Daytime,0
+0.30000000000000004,0.5,0.2,1,Orange,Daytime,0
+0.30000000000000004,0.6,0.1,1,Orange,Daytime,0
+0.30000000000000004,0.6,0.1,1,Orange,Daytime,0
+0.30000000000000004,0.6,0.1,1,Orange,Daytime,0
+0.30000000000000004,0.6,0.1,1,Orange,Daytime,0
+0.30000000000000004,0.6,0.1,1,Orange,Daytime,0
+0.4,0.1,0.5,1,Orange,Daytime,0
+0.4,0.1,0.5,1,Orange,Daytime,0
+0.4,0.1,0.5,1,Orange,Daytime,0
+0.4,0.1,0.5,1,Orange,Daytime,0
+0.4,0.1,0.5,1,Orange,Daytime,0
+0.4,0.2,0.4,1,Orange,Daytime,0
+0.4,0.2,0.4,1,Orange,Daytime,0
+0.4,0.2,0.4,1,Orange,Daytime,0
+0.4,0.2,0.4,1,Orange,Daytime,0
+0.4,0.2,0.4,1,Orange,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Orange,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Orange,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Orange,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Orange,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Orange,Daytime,0
+0.4,0.4,0.2,1,Orange,Daytime,0
+0.4,0.4,0.2,1,Orange,Daytime,0
+0.4,0.4,0.2,1,Orange,Daytime,0
+0.4,0.4,0.2,1,Orange,Daytime,0
+0.4,0.4,0.2,1,Orange,Daytime,0
+0.4,0.5,0.1,1,Orange,Daytime,0
+0.4,0.5,0.1,1,Orange,Daytime,0
+0.4,0.5,0.1,1,Orange,Daytime,0
+0.4,0.5,0.1,1,Orange,Daytime,0
+0.4,0.5,0.1,1,Orange,Daytime,0
+0.5,0.1,0.4,1,Orange,Daytime,0
+0.5,0.1,0.4,1,Orange,Daytime,0
+0.5,0.1,0.4,1,Orange,Daytime,0
+0.5,0.1,0.4,1,Orange,Daytime,0
+0.5,0.1,0.4,1,Orange,Daytime,0
+0.5,0.2,0.30000000000000004,1,Orange,Daytime,0
+0.5,0.2,0.30000000000000004,1,Orange,Daytime,0
+0.5,0.2,0.30000000000000004,1,Orange,Daytime,0
+0.5,0.2,0.30000000000000004,1,Orange,Daytime,0
+0.5,0.2,0.30000000000000004,1,Orange,Daytime,0
+0.5,0.30000000000000004,0.2,1,Orange,Daytime,0
+0.5,0.30000000000000004,0.2,1,Orange,Daytime,0
+0.5,0.30000000000000004,0.2,1,Orange,Daytime,0
+0.5,0.30000000000000004,0.2,1,Orange,Daytime,0
+0.5,0.30000000000000004,0.2,1,Orange,Daytime,0
+0.5,0.4,0.1,1,Orange,Daytime,0
+0.5,0.4,0.1,1,Orange,Daytime,0
+0.5,0.4,0.1,1,Orange,Daytime,0
+0.5,0.4,0.1,1,Orange,Daytime,0
+0.5,0.4,0.1,1,Orange,Daytime,0
+0.6,0.1,0.30000000000000004,1,Orange,Daytime,0
+0.6,0.1,0.30000000000000004,1,Orange,Daytime,0
+0.6,0.1,0.30000000000000004,1,Orange,Daytime,0
+0.6,0.1,0.30000000000000004,1,Orange,Daytime,0
+0.6,0.1,0.30000000000000004,1,Orange,Daytime,0
+0.6,0.2,0.2,1,Orange,Daytime,0
+0.6,0.2,0.2,1,Orange,Daytime,0
+0.6,0.2,0.2,1,Orange,Daytime,0
+0.6,0.2,0.2,1,Orange,Daytime,0
+0.6,0.2,0.2,1,Orange,Daytime,0
+0.6,0.30000000000000004,0.1,1,Orange,Daytime,0
+0.6,0.30000000000000004,0.1,1,Orange,Daytime,0
+0.6,0.30000000000000004,0.1,1,Orange,Daytime,0
+0.6,0.30000000000000004,0.1,1,Orange,Daytime,0
+0.6,0.30000000000000004,0.1,1,Orange,Daytime,0
+0.7,0.1,0.2,1,Orange,Daytime,0
+0.7,0.1,0.2,1,Orange,Daytime,0
+0.7,0.1,0.2,1,Orange,Daytime,0
+0.7,0.1,0.2,1,Orange,Daytime,0
+0.7,0.1,0.2,1,Orange,Daytime,0
+0.7,0.2,0.1,1,Orange,Daytime,0
+0.7,0.2,0.1,1,Orange,Daytime,0
+0.7,0.2,0.1,1,Orange,Daytime,0
+0.7,0.2,0.1,1,Orange,Daytime,0
+0.7,0.2,0.1,1,Orange,Daytime,0
+0.7999999999999999,0.1,0.1,1,Orange,Daytime,0
+0.7999999999999999,0.1,0.1,1,Orange,Daytime,0
+0.7999999999999999,0.1,0.1,1,Orange,Daytime,0
+0.7999999999999999,0.1,0.1,1,Orange,Daytime,0
+0.7999999999999999,0.1,0.1,1,Orange,Daytime,0
+0.1,0.1,0.7999999999999999,1,Orange,Night time,570
+0.1,0.1,0.7999999999999999,1,Orange,Night time,570
+0.1,0.1,0.7999999999999999,1,Orange,Night time,570
+0.1,0.1,0.7999999999999999,1,Orange,Night time,570
+0.1,0.1,0.7999999999999999,1,Orange,Night time,570
+0.1,0.2,0.7,1,Orange,Night time,570
+0.1,0.2,0.7,1,Orange,Night time,570
+0.1,0.2,0.7,1,Orange,Night time,570
+0.1,0.2,0.7,1,Orange,Night time,570
+0.1,0.2,0.7,1,Orange,Night time,570
+0.1,0.30000000000000004,0.6,1,Orange,Night time,570
+0.1,0.30000000000000004,0.6,1,Orange,Night time,570
+0.1,0.30000000000000004,0.6,1,Orange,Night time,570
+0.1,0.30000000000000004,0.6,1,Orange,Night time,570
+0.1,0.30000000000000004,0.6,1,Orange,Night time,570
+0.1,0.4,0.5,1,Orange,Night time,570
+0.1,0.4,0.5,1,Orange,Night time,570
+0.1,0.4,0.5,1,Orange,Night time,570
+0.1,0.4,0.5,1,Orange,Night time,570
+0.1,0.4,0.5,1,Orange,Night time,570
+0.1,0.5,0.4,1,Orange,Night time,546
+0.1,0.5,0.4,1,Orange,Night time,547
+0.1,0.5,0.4,1,Orange,Night time,548
+0.1,0.5,0.4,1,Orange,Night time,544
+0.1,0.5,0.4,1,Orange,Night time,540
+0.1,0.6,0.30000000000000004,1,Orange,Night time,507
+0.1,0.6,0.30000000000000004,1,Orange,Night time,520
+0.1,0.6,0.30000000000000004,1,Orange,Night time,511
+0.1,0.6,0.30000000000000004,1,Orange,Night time,514
+0.1,0.6,0.30000000000000004,1,Orange,Night time,511
+0.1,0.7,0.2,1,Orange,Night time,452
+0.1,0.7,0.2,1,Orange,Night time,483
+0.1,0.7,0.2,1,Orange,Night time,458
+0.1,0.7,0.2,1,Orange,Night time,463
+0.1,0.7,0.2,1,Orange,Night time,454
+0.1,0.7999999999999999,0.1,1,Orange,Night time,0
+0.1,0.7999999999999999,0.1,1,Orange,Night time,0
+0.1,0.7999999999999999,0.1,1,Orange,Night time,0
+0.1,0.7999999999999999,0.1,1,Orange,Night time,0
+0.1,0.7999999999999999,0.1,1,Orange,Night time,0
+0.2,0.1,0.7,1,Orange,Night time,570
+0.2,0.1,0.7,1,Orange,Night time,570
+0.2,0.1,0.7,1,Orange,Night time,570
+0.2,0.1,0.7,1,Orange,Night time,570
+0.2,0.1,0.7,1,Orange,Night time,570
+0.2,0.2,0.6,1,Orange,Night time,551
+0.2,0.2,0.6,1,Orange,Night time,550
+0.2,0.2,0.6,1,Orange,Night time,551
+0.2,0.2,0.6,1,Orange,Night time,551
+0.2,0.2,0.6,1,Orange,Night time,546
+0.2,0.30000000000000004,0.5,1,Orange,Night time,489
+0.2,0.30000000000000004,0.5,1,Orange,Night time,509
+0.2,0.30000000000000004,0.5,1,Orange,Night time,486
+0.2,0.30000000000000004,0.5,1,Orange,Night time,496
+0.2,0.30000000000000004,0.5,1,Orange,Night time,482
+0.2,0.4,0.4,1,Orange,Night time,269
+0.2,0.4,0.4,1,Orange,Night time,296
+0.2,0.4,0.4,1,Orange,Night time,287
+0.2,0.4,0.4,1,Orange,Night time,288
+0.2,0.4,0.4,1,Orange,Night time,287
+0.2,0.5,0.30000000000000004,1,Orange,Night time,223
+0.2,0.5,0.30000000000000004,1,Orange,Night time,241
+0.2,0.5,0.30000000000000004,1,Orange,Night time,226
+0.2,0.5,0.30000000000000004,1,Orange,Night time,229
+0.2,0.5,0.30000000000000004,1,Orange,Night time,226
+0.2,0.6,0.2,1,Orange,Night time,47
+0.2,0.6,0.2,1,Orange,Night time,69
+0.2,0.6,0.2,1,Orange,Night time,64
+0.2,0.6,0.2,1,Orange,Night time,56
+0.2,0.6,0.2,1,Orange,Night time,55
+0.2,0.7,0.1,1,Orange,Night time,0
+0.2,0.7,0.1,1,Orange,Night time,0
+0.2,0.7,0.1,1,Orange,Night time,0
+0.2,0.7,0.1,1,Orange,Night time,0
+0.2,0.7,0.1,1,Orange,Night time,0
+0.30000000000000004,0.1,0.6,1,Orange,Night time,60
+0.30000000000000004,0.1,0.6,1,Orange,Night time,70
+0.30000000000000004,0.1,0.6,1,Orange,Night time,63
+0.30000000000000004,0.1,0.6,1,Orange,Night time,63
+0.30000000000000004,0.1,0.6,1,Orange,Night time,64
+0.30000000000000004,0.2,0.5,1,Orange,Night time,50
+0.30000000000000004,0.2,0.5,1,Orange,Night time,53
+0.30000000000000004,0.2,0.5,1,Orange,Night time,54
+0.30000000000000004,0.2,0.5,1,Orange,Night time,51
+0.30000000000000004,0.2,0.5,1,Orange,Night time,54
+0.30000000000000004,0.30000000000000004,0.4,1,Orange,Night time,34
+0.30000000000000004,0.30000000000000004,0.4,1,Orange,Night time,43
+0.30000000000000004,0.30000000000000004,0.4,1,Orange,Night time,46
+0.30000000000000004,0.30000000000000004,0.4,1,Orange,Night time,39
+0.30000000000000004,0.30000000000000004,0.4,1,Orange,Night time,43
+0.30000000000000004,0.4,0.30000000000000004,1,Orange,Night time,3
+0.30000000000000004,0.4,0.30000000000000004,1,Orange,Night time,2
+0.30000000000000004,0.4,0.30000000000000004,1,Orange,Night time,2
+0.30000000000000004,0.4,0.30000000000000004,1,Orange,Night time,3
+0.30000000000000004,0.4,0.30000000000000004,1,Orange,Night time,1
+0.30000000000000004,0.5,0.2,1,Orange,Night time,0
+0.30000000000000004,0.5,0.2,1,Orange,Night time,2
+0.30000000000000004,0.5,0.2,1,Orange,Night time,0
+0.30000000000000004,0.5,0.2,1,Orange,Night time,0
+0.30000000000000004,0.5,0.2,1,Orange,Night time,0
+0.30000000000000004,0.6,0.1,1,Orange,Night time,0
+0.30000000000000004,0.6,0.1,1,Orange,Night time,2
+0.30000000000000004,0.6,0.1,1,Orange,Night time,0
+0.30000000000000004,0.6,0.1,1,Orange,Night time,0
+0.30000000000000004,0.6,0.1,1,Orange,Night time,0
+0.4,0.1,0.5,1,Orange,Night time,0
+0.4,0.1,0.5,1,Orange,Night time,0
+0.4,0.1,0.5,1,Orange,Night time,0
+0.4,0.1,0.5,1,Orange,Night time,0
+0.4,0.1,0.5,1,Orange,Night time,0
+0.4,0.2,0.4,1,Orange,Night time,0
+0.4,0.2,0.4,1,Orange,Night time,0
+0.4,0.2,0.4,1,Orange,Night time,0
+0.4,0.2,0.4,1,Orange,Night time,0
+0.4,0.2,0.4,1,Orange,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Orange,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Orange,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Orange,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Orange,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Orange,Night time,0
+0.4,0.4,0.2,1,Orange,Night time,0
+0.4,0.4,0.2,1,Orange,Night time,0
+0.4,0.4,0.2,1,Orange,Night time,0
+0.4,0.4,0.2,1,Orange,Night time,0
+0.4,0.4,0.2,1,Orange,Night time,0
+0.4,0.5,0.1,1,Orange,Night time,0
+0.4,0.5,0.1,1,Orange,Night time,0
+0.4,0.5,0.1,1,Orange,Night time,0
+0.4,0.5,0.1,1,Orange,Night time,0
+0.4,0.5,0.1,1,Orange,Night time,0
+0.5,0.1,0.4,1,Orange,Night time,0
+0.5,0.1,0.4,1,Orange,Night time,0
+0.5,0.1,0.4,1,Orange,Night time,0
+0.5,0.1,0.4,1,Orange,Night time,0
+0.5,0.1,0.4,1,Orange,Night time,0
+0.5,0.2,0.30000000000000004,1,Orange,Night time,0
+0.5,0.2,0.30000000000000004,1,Orange,Night time,0
+0.5,0.2,0.30000000000000004,1,Orange,Night time,0
+0.5,0.2,0.30000000000000004,1,Orange,Night time,0
+0.5,0.2,0.30000000000000004,1,Orange,Night time,0
+0.5,0.30000000000000004,0.2,1,Orange,Night time,0
+0.5,0.30000000000000004,0.2,1,Orange,Night time,0
+0.5,0.30000000000000004,0.2,1,Orange,Night time,0
+0.5,0.30000000000000004,0.2,1,Orange,Night time,0
+0.5,0.30000000000000004,0.2,1,Orange,Night time,0
+0.5,0.4,0.1,1,Orange,Night time,0
+0.5,0.4,0.1,1,Orange,Night time,0
+0.5,0.4,0.1,1,Orange,Night time,0
+0.5,0.4,0.1,1,Orange,Night time,0
+0.5,0.4,0.1,1,Orange,Night time,0
+0.6,0.1,0.30000000000000004,1,Orange,Night time,0
+0.6,0.1,0.30000000000000004,1,Orange,Night time,0
+0.6,0.1,0.30000000000000004,1,Orange,Night time,0
+0.6,0.1,0.30000000000000004,1,Orange,Night time,0
+0.6,0.1,0.30000000000000004,1,Orange,Night time,0
+0.6,0.2,0.2,1,Orange,Night time,0
+0.6,0.2,0.2,1,Orange,Night time,0
+0.6,0.2,0.2,1,Orange,Night time,0
+0.6,0.2,0.2,1,Orange,Night time,0
+0.6,0.2,0.2,1,Orange,Night time,0
+0.6,0.30000000000000004,0.1,1,Orange,Night time,0
+0.6,0.30000000000000004,0.1,1,Orange,Night time,0
+0.6,0.30000000000000004,0.1,1,Orange,Night time,0
+0.6,0.30000000000000004,0.1,1,Orange,Night time,0
+0.6,0.30000000000000004,0.1,1,Orange,Night time,0
+0.7,0.1,0.2,1,Orange,Night time,0
+0.7,0.1,0.2,1,Orange,Night time,0
+0.7,0.1,0.2,1,Orange,Night time,0
+0.7,0.1,0.2,1,Orange,Night time,0
+0.7,0.1,0.2,1,Orange,Night time,0
+0.7,0.2,0.1,1,Orange,Night time,0
+0.7,0.2,0.1,1,Orange,Night time,0
+0.7,0.2,0.1,1,Orange,Night time,0
+0.7,0.2,0.1,1,Orange,Night time,0
+0.7,0.2,0.1,1,Orange,Night time,0
+0.7999999999999999,0.1,0.1,1,Orange,Night time,0
+0.7999999999999999,0.1,0.1,1,Orange,Night time,0
+0.7999999999999999,0.1,0.1,1,Orange,Night time,0
+0.7999999999999999,0.1,0.1,1,Orange,Night time,0
+0.7999999999999999,0.1,0.1,1,Orange,Night time,0
+0.1,0.1,0.7999999999999999,1,Red,Daytime,570
+0.1,0.1,0.7999999999999999,1,Red,Daytime,570
+0.1,0.1,0.7999999999999999,1,Red,Daytime,570
+0.1,0.1,0.7999999999999999,1,Red,Daytime,570
+0.1,0.1,0.7999999999999999,1,Red,Daytime,570
+0.1,0.2,0.7,1,Red,Daytime,570
+0.1,0.2,0.7,1,Red,Daytime,570
+0.1,0.2,0.7,1,Red,Daytime,570
+0.1,0.2,0.7,1,Red,Daytime,570
+0.1,0.2,0.7,1,Red,Daytime,570
+0.1,0.30000000000000004,0.6,1,Red,Daytime,570
+0.1,0.30000000000000004,0.6,1,Red,Daytime,570
+0.1,0.30000000000000004,0.6,1,Red,Daytime,570
+0.1,0.30000000000000004,0.6,1,Red,Daytime,570
+0.1,0.30000000000000004,0.6,1,Red,Daytime,570
+0.1,0.4,0.5,1,Red,Daytime,502
+0.1,0.4,0.5,1,Red,Daytime,514
+0.1,0.4,0.5,1,Red,Daytime,504
+0.1,0.4,0.5,1,Red,Daytime,506
+0.1,0.4,0.5,1,Red,Daytime,505
+0.1,0.5,0.4,1,Red,Daytime,388
+0.1,0.5,0.4,1,Red,Daytime,433
+0.1,0.5,0.4,1,Red,Daytime,406
+0.1,0.5,0.4,1,Red,Daytime,405
+0.1,0.5,0.4,1,Red,Daytime,403
+0.1,0.6,0.30000000000000004,1,Red,Daytime,46
+0.1,0.6,0.30000000000000004,1,Red,Daytime,68
+0.1,0.6,0.30000000000000004,1,Red,Daytime,63
+0.1,0.6,0.30000000000000004,1,Red,Daytime,53
+0.1,0.6,0.30000000000000004,1,Red,Daytime,57
+0.1,0.7,0.2,1,Red,Daytime,5
+0.1,0.7,0.2,1,Red,Daytime,14
+0.1,0.7,0.2,1,Red,Daytime,9
+0.1,0.7,0.2,1,Red,Daytime,8
+0.1,0.7,0.2,1,Red,Daytime,5
+0.1,0.7999999999999999,0.1,1,Red,Daytime,0
+0.1,0.7999999999999999,0.1,1,Red,Daytime,0
+0.1,0.7999999999999999,0.1,1,Red,Daytime,0
+0.1,0.7999999999999999,0.1,1,Red,Daytime,0
+0.1,0.7999999999999999,0.1,1,Red,Daytime,0
+0.2,0.1,0.7,1,Red,Daytime,570
+0.2,0.1,0.7,1,Red,Daytime,570
+0.2,0.1,0.7,1,Red,Daytime,570
+0.2,0.1,0.7,1,Red,Daytime,570
+0.2,0.1,0.7,1,Red,Daytime,570
+0.2,0.2,0.6,1,Red,Daytime,440
+0.2,0.2,0.6,1,Red,Daytime,465
+0.2,0.2,0.6,1,Red,Daytime,444
+0.2,0.2,0.6,1,Red,Daytime,453
+0.2,0.2,0.6,1,Red,Daytime,443
+0.2,0.30000000000000004,0.5,1,Red,Daytime,221
+0.2,0.30000000000000004,0.5,1,Red,Daytime,234
+0.2,0.30000000000000004,0.5,1,Red,Daytime,220
+0.2,0.30000000000000004,0.5,1,Red,Daytime,221
+0.2,0.30000000000000004,0.5,1,Red,Daytime,212
+0.2,0.4,0.4,1,Red,Daytime,4
+0.2,0.4,0.4,1,Red,Daytime,3
+0.2,0.4,0.4,1,Red,Daytime,2
+0.2,0.4,0.4,1,Red,Daytime,3
+0.2,0.4,0.4,1,Red,Daytime,3
+0.2,0.5,0.30000000000000004,1,Red,Daytime,0
+0.2,0.5,0.30000000000000004,1,Red,Daytime,3
+0.2,0.5,0.30000000000000004,1,Red,Daytime,0
+0.2,0.5,0.30000000000000004,1,Red,Daytime,0
+0.2,0.5,0.30000000000000004,1,Red,Daytime,0
+0.2,0.6,0.2,1,Red,Daytime,0
+0.2,0.6,0.2,1,Red,Daytime,2
+0.2,0.6,0.2,1,Red,Daytime,0
+0.2,0.6,0.2,1,Red,Daytime,0
+0.2,0.6,0.2,1,Red,Daytime,0
+0.2,0.7,0.1,1,Red,Daytime,0
+0.2,0.7,0.1,1,Red,Daytime,0
+0.2,0.7,0.1,1,Red,Daytime,0
+0.2,0.7,0.1,1,Red,Daytime,0
+0.2,0.7,0.1,1,Red,Daytime,0
+0.30000000000000004,0.1,0.6,1,Red,Daytime,58
+0.30000000000000004,0.1,0.6,1,Red,Daytime,58
+0.30000000000000004,0.1,0.6,1,Red,Daytime,58
+0.30000000000000004,0.1,0.6,1,Red,Daytime,58
+0.30000000000000004,0.1,0.6,1,Red,Daytime,58
+0.30000000000000004,0.2,0.5,1,Red,Daytime,3
+0.30000000000000004,0.2,0.5,1,Red,Daytime,0
+0.30000000000000004,0.2,0.5,1,Red,Daytime,2
+0.30000000000000004,0.2,0.5,1,Red,Daytime,2
+0.30000000000000004,0.2,0.5,1,Red,Daytime,1
+0.30000000000000004,0.30000000000000004,0.4,1,Red,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Red,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Red,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Red,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,1,Red,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Red,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Red,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Red,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Red,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,1,Red,Daytime,0
+0.30000000000000004,0.5,0.2,1,Red,Daytime,0
+0.30000000000000004,0.5,0.2,1,Red,Daytime,0
+0.30000000000000004,0.5,0.2,1,Red,Daytime,0
+0.30000000000000004,0.5,0.2,1,Red,Daytime,0
+0.30000000000000004,0.5,0.2,1,Red,Daytime,0
+0.30000000000000004,0.6,0.1,1,Red,Daytime,0
+0.30000000000000004,0.6,0.1,1,Red,Daytime,0
+0.30000000000000004,0.6,0.1,1,Red,Daytime,0
+0.30000000000000004,0.6,0.1,1,Red,Daytime,0
+0.30000000000000004,0.6,0.1,1,Red,Daytime,0
+0.4,0.1,0.5,1,Red,Daytime,0
+0.4,0.1,0.5,1,Red,Daytime,0
+0.4,0.1,0.5,1,Red,Daytime,0
+0.4,0.1,0.5,1,Red,Daytime,0
+0.4,0.1,0.5,1,Red,Daytime,0
+0.4,0.2,0.4,1,Red,Daytime,0
+0.4,0.2,0.4,1,Red,Daytime,0
+0.4,0.2,0.4,1,Red,Daytime,0
+0.4,0.2,0.4,1,Red,Daytime,0
+0.4,0.2,0.4,1,Red,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Red,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Red,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Red,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Red,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,1,Red,Daytime,0
+0.4,0.4,0.2,1,Red,Daytime,0
+0.4,0.4,0.2,1,Red,Daytime,0
+0.4,0.4,0.2,1,Red,Daytime,0
+0.4,0.4,0.2,1,Red,Daytime,0
+0.4,0.4,0.2,1,Red,Daytime,0
+0.4,0.5,0.1,1,Red,Daytime,0
+0.4,0.5,0.1,1,Red,Daytime,0
+0.4,0.5,0.1,1,Red,Daytime,0
+0.4,0.5,0.1,1,Red,Daytime,0
+0.4,0.5,0.1,1,Red,Daytime,0
+0.5,0.1,0.4,1,Red,Daytime,0
+0.5,0.1,0.4,1,Red,Daytime,0
+0.5,0.1,0.4,1,Red,Daytime,0
+0.5,0.1,0.4,1,Red,Daytime,0
+0.5,0.1,0.4,1,Red,Daytime,0
+0.5,0.2,0.30000000000000004,1,Red,Daytime,0
+0.5,0.2,0.30000000000000004,1,Red,Daytime,0
+0.5,0.2,0.30000000000000004,1,Red,Daytime,0
+0.5,0.2,0.30000000000000004,1,Red,Daytime,0
+0.5,0.2,0.30000000000000004,1,Red,Daytime,0
+0.5,0.30000000000000004,0.2,1,Red,Daytime,0
+0.5,0.30000000000000004,0.2,1,Red,Daytime,0
+0.5,0.30000000000000004,0.2,1,Red,Daytime,0
+0.5,0.30000000000000004,0.2,1,Red,Daytime,0
+0.5,0.30000000000000004,0.2,1,Red,Daytime,0
+0.5,0.4,0.1,1,Red,Daytime,0
+0.5,0.4,0.1,1,Red,Daytime,0
+0.5,0.4,0.1,1,Red,Daytime,0
+0.5,0.4,0.1,1,Red,Daytime,0
+0.5,0.4,0.1,1,Red,Daytime,0
+0.6,0.1,0.30000000000000004,1,Red,Daytime,0
+0.6,0.1,0.30000000000000004,1,Red,Daytime,0
+0.6,0.1,0.30000000000000004,1,Red,Daytime,0
+0.6,0.1,0.30000000000000004,1,Red,Daytime,0
+0.6,0.1,0.30000000000000004,1,Red,Daytime,0
+0.6,0.2,0.2,1,Red,Daytime,0
+0.6,0.2,0.2,1,Red,Daytime,0
+0.6,0.2,0.2,1,Red,Daytime,0
+0.6,0.2,0.2,1,Red,Daytime,0
+0.6,0.2,0.2,1,Red,Daytime,0
+0.6,0.30000000000000004,0.1,1,Red,Daytime,0
+0.6,0.30000000000000004,0.1,1,Red,Daytime,0
+0.6,0.30000000000000004,0.1,1,Red,Daytime,0
+0.6,0.30000000000000004,0.1,1,Red,Daytime,0
+0.6,0.30000000000000004,0.1,1,Red,Daytime,0
+0.7,0.1,0.2,1,Red,Daytime,0
+0.7,0.1,0.2,1,Red,Daytime,0
+0.7,0.1,0.2,1,Red,Daytime,0
+0.7,0.1,0.2,1,Red,Daytime,0
+0.7,0.1,0.2,1,Red,Daytime,0
+0.7,0.2,0.1,1,Red,Daytime,0
+0.7,0.2,0.1,1,Red,Daytime,0
+0.7,0.2,0.1,1,Red,Daytime,0
+0.7,0.2,0.1,1,Red,Daytime,0
+0.7,0.2,0.1,1,Red,Daytime,0
+0.7999999999999999,0.1,0.1,1,Red,Daytime,0
+0.7999999999999999,0.1,0.1,1,Red,Daytime,0
+0.7999999999999999,0.1,0.1,1,Red,Daytime,0
+0.7999999999999999,0.1,0.1,1,Red,Daytime,0
+0.7999999999999999,0.1,0.1,1,Red,Daytime,0
+0.1,0.1,0.7999999999999999,1,Red,Night time,570
+0.1,0.1,0.7999999999999999,1,Red,Night time,570
+0.1,0.1,0.7999999999999999,1,Red,Night time,570
+0.1,0.1,0.7999999999999999,1,Red,Night time,570
+0.1,0.1,0.7999999999999999,1,Red,Night time,570
+0.1,0.2,0.7,1,Red,Night time,570
+0.1,0.2,0.7,1,Red,Night time,570
+0.1,0.2,0.7,1,Red,Night time,570
+0.1,0.2,0.7,1,Red,Night time,570
+0.1,0.2,0.7,1,Red,Night time,570
+0.1,0.30000000000000004,0.6,1,Red,Night time,570
+0.1,0.30000000000000004,0.6,1,Red,Night time,570
+0.1,0.30000000000000004,0.6,1,Red,Night time,570
+0.1,0.30000000000000004,0.6,1,Red,Night time,570
+0.1,0.30000000000000004,0.6,1,Red,Night time,570
+0.1,0.4,0.5,1,Red,Night time,570
+0.1,0.4,0.5,1,Red,Night time,570
+0.1,0.4,0.5,1,Red,Night time,570
+0.1,0.4,0.5,1,Red,Night time,570
+0.1,0.4,0.5,1,Red,Night time,570
+0.1,0.5,0.4,1,Red,Night time,570
+0.1,0.5,0.4,1,Red,Night time,570
+0.1,0.5,0.4,1,Red,Night time,570
+0.1,0.5,0.4,1,Red,Night time,570
+0.1,0.5,0.4,1,Red,Night time,570
+0.1,0.6,0.30000000000000004,1,Red,Night time,570
+0.1,0.6,0.30000000000000004,1,Red,Night time,570
+0.1,0.6,0.30000000000000004,1,Red,Night time,570
+0.1,0.6,0.30000000000000004,1,Red,Night time,570
+0.1,0.6,0.30000000000000004,1,Red,Night time,570
+0.1,0.7,0.2,1,Red,Night time,570
+0.1,0.7,0.2,1,Red,Night time,570
+0.1,0.7,0.2,1,Red,Night time,570
+0.1,0.7,0.2,1,Red,Night time,570
+0.1,0.7,0.2,1,Red,Night time,570
+0.1,0.7999999999999999,0.1,1,Red,Night time,0
+0.1,0.7999999999999999,0.1,1,Red,Night time,0
+0.1,0.7999999999999999,0.1,1,Red,Night time,0
+0.1,0.7999999999999999,0.1,1,Red,Night time,0
+0.1,0.7999999999999999,0.1,1,Red,Night time,0
+0.2,0.1,0.7,1,Red,Night time,570
+0.2,0.1,0.7,1,Red,Night time,570
+0.2,0.1,0.7,1,Red,Night time,570
+0.2,0.1,0.7,1,Red,Night time,570
+0.2,0.1,0.7,1,Red,Night time,570
+0.2,0.2,0.6,1,Red,Night time,570
+0.2,0.2,0.6,1,Red,Night time,570
+0.2,0.2,0.6,1,Red,Night time,570
+0.2,0.2,0.6,1,Red,Night time,570
+0.2,0.2,0.6,1,Red,Night time,570
+0.2,0.30000000000000004,0.5,1,Red,Night time,568
+0.2,0.30000000000000004,0.5,1,Red,Night time,565
+0.2,0.30000000000000004,0.5,1,Red,Night time,567
+0.2,0.30000000000000004,0.5,1,Red,Night time,565
+0.2,0.30000000000000004,0.5,1,Red,Night time,564
+0.2,0.4,0.4,1,Red,Night time,546
+0.2,0.4,0.4,1,Red,Night time,545
+0.2,0.4,0.4,1,Red,Night time,547
+0.2,0.4,0.4,1,Red,Night time,544
+0.2,0.4,0.4,1,Red,Night time,540
+0.2,0.5,0.30000000000000004,1,Red,Night time,510
+0.2,0.5,0.30000000000000004,1,Red,Night time,521
+0.2,0.5,0.30000000000000004,1,Red,Night time,508
+0.2,0.5,0.30000000000000004,1,Red,Night time,513
+0.2,0.5,0.30000000000000004,1,Red,Night time,508
+0.2,0.6,0.2,1,Red,Night time,487
+0.2,0.6,0.2,1,Red,Night time,504
+0.2,0.6,0.2,1,Red,Night time,486
+0.2,0.6,0.2,1,Red,Night time,491
+0.2,0.6,0.2,1,Red,Night time,485
+0.2,0.7,0.1,1,Red,Night time,0
+0.2,0.7,0.1,1,Red,Night time,0
+0.2,0.7,0.1,1,Red,Night time,0
+0.2,0.7,0.1,1,Red,Night time,0
+0.2,0.7,0.1,1,Red,Night time,0
+0.30000000000000004,0.1,0.6,1,Red,Night time,256
+0.30000000000000004,0.1,0.6,1,Red,Night time,266
+0.30000000000000004,0.1,0.6,1,Red,Night time,250
+0.30000000000000004,0.1,0.6,1,Red,Night time,263
+0.30000000000000004,0.1,0.6,1,Red,Night time,260
+0.30000000000000004,0.2,0.5,1,Red,Night time,235
+0.30000000000000004,0.2,0.5,1,Red,Night time,249
+0.30000000000000004,0.2,0.5,1,Red,Night time,231
+0.30000000000000004,0.2,0.5,1,Red,Night time,238
+0.30000000000000004,0.2,0.5,1,Red,Night time,238
+0.30000000000000004,0.30000000000000004,0.4,1,Red,Night time,223
+0.30000000000000004,0.30000000000000004,0.4,1,Red,Night time,232
+0.30000000000000004,0.30000000000000004,0.4,1,Red,Night time,215
+0.30000000000000004,0.30000000000000004,0.4,1,Red,Night time,221
+0.30000000000000004,0.30000000000000004,0.4,1,Red,Night time,217
+0.30000000000000004,0.4,0.30000000000000004,1,Red,Night time,57
+0.30000000000000004,0.4,0.30000000000000004,1,Red,Night time,68
+0.30000000000000004,0.4,0.30000000000000004,1,Red,Night time,62
+0.30000000000000004,0.4,0.30000000000000004,1,Red,Night time,58
+0.30000000000000004,0.4,0.30000000000000004,1,Red,Night time,59
+0.30000000000000004,0.5,0.2,1,Red,Night time,47
+0.30000000000000004,0.5,0.2,1,Red,Night time,63
+0.30000000000000004,0.5,0.2,1,Red,Night time,55
+0.30000000000000004,0.5,0.2,1,Red,Night time,50
+0.30000000000000004,0.5,0.2,1,Red,Night time,54
+0.30000000000000004,0.6,0.1,1,Red,Night time,47
+0.30000000000000004,0.6,0.1,1,Red,Night time,64
+0.30000000000000004,0.6,0.1,1,Red,Night time,56
+0.30000000000000004,0.6,0.1,1,Red,Night time,50
+0.30000000000000004,0.6,0.1,1,Red,Night time,54
+0.4,0.1,0.5,1,Red,Night time,0
+0.4,0.1,0.5,1,Red,Night time,0
+0.4,0.1,0.5,1,Red,Night time,0
+0.4,0.1,0.5,1,Red,Night time,0
+0.4,0.1,0.5,1,Red,Night time,0
+0.4,0.2,0.4,1,Red,Night time,0
+0.4,0.2,0.4,1,Red,Night time,0
+0.4,0.2,0.4,1,Red,Night time,0
+0.4,0.2,0.4,1,Red,Night time,0
+0.4,0.2,0.4,1,Red,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Red,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Red,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Red,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Red,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,1,Red,Night time,0
+0.4,0.4,0.2,1,Red,Night time,0
+0.4,0.4,0.2,1,Red,Night time,0
+0.4,0.4,0.2,1,Red,Night time,0
+0.4,0.4,0.2,1,Red,Night time,0
+0.4,0.4,0.2,1,Red,Night time,0
+0.4,0.5,0.1,1,Red,Night time,0
+0.4,0.5,0.1,1,Red,Night time,2
+0.4,0.5,0.1,1,Red,Night time,0
+0.4,0.5,0.1,1,Red,Night time,0
+0.4,0.5,0.1,1,Red,Night time,0
+0.5,0.1,0.4,1,Red,Night time,0
+0.5,0.1,0.4,1,Red,Night time,0
+0.5,0.1,0.4,1,Red,Night time,0
+0.5,0.1,0.4,1,Red,Night time,0
+0.5,0.1,0.4,1,Red,Night time,0
+0.5,0.2,0.30000000000000004,1,Red,Night time,0
+0.5,0.2,0.30000000000000004,1,Red,Night time,0
+0.5,0.2,0.30000000000000004,1,Red,Night time,0
+0.5,0.2,0.30000000000000004,1,Red,Night time,0
+0.5,0.2,0.30000000000000004,1,Red,Night time,0
+0.5,0.30000000000000004,0.2,1,Red,Night time,0
+0.5,0.30000000000000004,0.2,1,Red,Night time,0
+0.5,0.30000000000000004,0.2,1,Red,Night time,0
+0.5,0.30000000000000004,0.2,1,Red,Night time,0
+0.5,0.30000000000000004,0.2,1,Red,Night time,0
+0.5,0.4,0.1,1,Red,Night time,0
+0.5,0.4,0.1,1,Red,Night time,0
+0.5,0.4,0.1,1,Red,Night time,0
+0.5,0.4,0.1,1,Red,Night time,0
+0.5,0.4,0.1,1,Red,Night time,0
+0.6,0.1,0.30000000000000004,1,Red,Night time,0
+0.6,0.1,0.30000000000000004,1,Red,Night time,0
+0.6,0.1,0.30000000000000004,1,Red,Night time,0
+0.6,0.1,0.30000000000000004,1,Red,Night time,0
+0.6,0.1,0.30000000000000004,1,Red,Night time,0
+0.6,0.2,0.2,1,Red,Night time,0
+0.6,0.2,0.2,1,Red,Night time,0
+0.6,0.2,0.2,1,Red,Night time,0
+0.6,0.2,0.2,1,Red,Night time,0
+0.6,0.2,0.2,1,Red,Night time,0
+0.6,0.30000000000000004,0.1,1,Red,Night time,0
+0.6,0.30000000000000004,0.1,1,Red,Night time,0
+0.6,0.30000000000000004,0.1,1,Red,Night time,0
+0.6,0.30000000000000004,0.1,1,Red,Night time,0
+0.6,0.30000000000000004,0.1,1,Red,Night time,0
+0.7,0.1,0.2,1,Red,Night time,0
+0.7,0.1,0.2,1,Red,Night time,0
+0.7,0.1,0.2,1,Red,Night time,0
+0.7,0.1,0.2,1,Red,Night time,0
+0.7,0.1,0.2,1,Red,Night time,0
+0.7,0.2,0.1,1,Red,Night time,0
+0.7,0.2,0.1,1,Red,Night time,0
+0.7,0.2,0.1,1,Red,Night time,0
+0.7,0.2,0.1,1,Red,Night time,0
+0.7,0.2,0.1,1,Red,Night time,0
+0.7999999999999999,0.1,0.1,1,Red,Night time,0
+0.7999999999999999,0.1,0.1,1,Red,Night time,0
+0.7999999999999999,0.1,0.1,1,Red,Night time,0
+0.7999999999999999,0.1,0.1,1,Red,Night time,0
+0.7999999999999999,0.1,0.1,1,Red,Night time,0
+0.1,0.1,0.7999999999999999,2,Yellow,Daytime,570
+0.1,0.1,0.7999999999999999,2,Yellow,Daytime,570
+0.1,0.1,0.7999999999999999,2,Yellow,Daytime,570
+0.1,0.1,0.7999999999999999,2,Yellow,Daytime,570
+0.1,0.1,0.7999999999999999,2,Yellow,Daytime,570
+0.1,0.2,0.7,2,Yellow,Daytime,570
+0.1,0.2,0.7,2,Yellow,Daytime,570
+0.1,0.2,0.7,2,Yellow,Daytime,570
+0.1,0.2,0.7,2,Yellow,Daytime,570
+0.1,0.2,0.7,2,Yellow,Daytime,570
+0.1,0.30000000000000004,0.6,2,Yellow,Daytime,570
+0.1,0.30000000000000004,0.6,2,Yellow,Daytime,570
+0.1,0.30000000000000004,0.6,2,Yellow,Daytime,570
+0.1,0.30000000000000004,0.6,2,Yellow,Daytime,570
+0.1,0.30000000000000004,0.6,2,Yellow,Daytime,570
+0.1,0.4,0.5,2,Yellow,Daytime,551
+0.1,0.4,0.5,2,Yellow,Daytime,552
+0.1,0.4,0.5,2,Yellow,Daytime,552
+0.1,0.4,0.5,2,Yellow,Daytime,551
+0.1,0.4,0.5,2,Yellow,Daytime,546
+0.1,0.5,0.4,2,Yellow,Daytime,487
+0.1,0.5,0.4,2,Yellow,Daytime,504
+0.1,0.5,0.4,2,Yellow,Daytime,486
+0.1,0.5,0.4,2,Yellow,Daytime,491
+0.1,0.5,0.4,2,Yellow,Daytime,485
+0.1,0.6,0.30000000000000004,2,Yellow,Daytime,441
+0.1,0.6,0.30000000000000004,2,Yellow,Daytime,478
+0.1,0.6,0.30000000000000004,2,Yellow,Daytime,452
+0.1,0.6,0.30000000000000004,2,Yellow,Daytime,455
+0.1,0.6,0.30000000000000004,2,Yellow,Daytime,449
+0.1,0.7,0.2,2,Yellow,Daytime,219
+0.1,0.7,0.2,2,Yellow,Daytime,241
+0.1,0.7,0.2,2,Yellow,Daytime,230
+0.1,0.7,0.2,2,Yellow,Daytime,232
+0.1,0.7,0.2,2,Yellow,Daytime,229
+0.1,0.7999999999999999,0.1,2,Yellow,Daytime,0
+0.1,0.7999999999999999,0.1,2,Yellow,Daytime,0
+0.1,0.7999999999999999,0.1,2,Yellow,Daytime,0
+0.1,0.7999999999999999,0.1,2,Yellow,Daytime,0
+0.1,0.7999999999999999,0.1,2,Yellow,Daytime,0
+0.2,0.1,0.7,2,Yellow,Daytime,570
+0.2,0.1,0.7,2,Yellow,Daytime,570
+0.2,0.1,0.7,2,Yellow,Daytime,570
+0.2,0.1,0.7,2,Yellow,Daytime,570
+0.2,0.1,0.7,2,Yellow,Daytime,570
+0.2,0.2,0.6,2,Yellow,Daytime,535
+0.2,0.2,0.6,2,Yellow,Daytime,539
+0.2,0.2,0.6,2,Yellow,Daytime,536
+0.2,0.2,0.6,2,Yellow,Daytime,533
+0.2,0.2,0.6,2,Yellow,Daytime,530
+0.2,0.30000000000000004,0.5,2,Yellow,Daytime,269
+0.2,0.30000000000000004,0.5,2,Yellow,Daytime,295
+0.2,0.30000000000000004,0.5,2,Yellow,Daytime,286
+0.2,0.30000000000000004,0.5,2,Yellow,Daytime,288
+0.2,0.30000000000000004,0.5,2,Yellow,Daytime,285
+0.2,0.4,0.4,2,Yellow,Daytime,46
+0.2,0.4,0.4,2,Yellow,Daytime,64
+0.2,0.4,0.4,2,Yellow,Daytime,56
+0.2,0.4,0.4,2,Yellow,Daytime,50
+0.2,0.4,0.4,2,Yellow,Daytime,54
+0.2,0.5,0.30000000000000004,2,Yellow,Daytime,5
+0.2,0.5,0.30000000000000004,2,Yellow,Daytime,14
+0.2,0.5,0.30000000000000004,2,Yellow,Daytime,9
+0.2,0.5,0.30000000000000004,2,Yellow,Daytime,7
+0.2,0.5,0.30000000000000004,2,Yellow,Daytime,5
+0.2,0.6,0.2,2,Yellow,Daytime,4
+0.2,0.6,0.2,2,Yellow,Daytime,3
+0.2,0.6,0.2,2,Yellow,Daytime,2
+0.2,0.6,0.2,2,Yellow,Daytime,3
+0.2,0.6,0.2,2,Yellow,Daytime,3
+0.2,0.7,0.1,2,Yellow,Daytime,0
+0.2,0.7,0.1,2,Yellow,Daytime,0
+0.2,0.7,0.1,2,Yellow,Daytime,0
+0.2,0.7,0.1,2,Yellow,Daytime,0
+0.2,0.7,0.1,2,Yellow,Daytime,0
+0.30000000000000004,0.1,0.6,2,Yellow,Daytime,58
+0.30000000000000004,0.1,0.6,2,Yellow,Daytime,60
+0.30000000000000004,0.1,0.6,2,Yellow,Daytime,58
+0.30000000000000004,0.1,0.6,2,Yellow,Daytime,58
+0.30000000000000004,0.1,0.6,2,Yellow,Daytime,60
+0.30000000000000004,0.2,0.5,2,Yellow,Daytime,38
+0.30000000000000004,0.2,0.5,2,Yellow,Daytime,46
+0.30000000000000004,0.2,0.5,2,Yellow,Daytime,48
+0.30000000000000004,0.2,0.5,2,Yellow,Daytime,43
+0.30000000000000004,0.2,0.5,2,Yellow,Daytime,46
+0.30000000000000004,0.30000000000000004,0.4,2,Yellow,Daytime,2
+0.30000000000000004,0.30000000000000004,0.4,2,Yellow,Daytime,0
+0.30000000000000004,0.30000000000000004,0.4,2,Yellow,Daytime,2
+0.30000000000000004,0.30000000000000004,0.4,2,Yellow,Daytime,1
+0.30000000000000004,0.30000000000000004,0.4,2,Yellow,Daytime,1
+0.30000000000000004,0.4,0.30000000000000004,2,Yellow,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,2,Yellow,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,2,Yellow,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,2,Yellow,Daytime,0
+0.30000000000000004,0.4,0.30000000000000004,2,Yellow,Daytime,0
+0.30000000000000004,0.5,0.2,2,Yellow,Daytime,0
+0.30000000000000004,0.5,0.2,2,Yellow,Daytime,0
+0.30000000000000004,0.5,0.2,2,Yellow,Daytime,0
+0.30000000000000004,0.5,0.2,2,Yellow,Daytime,0
+0.30000000000000004,0.5,0.2,2,Yellow,Daytime,0
+0.30000000000000004,0.6,0.1,2,Yellow,Daytime,0
+0.30000000000000004,0.6,0.1,2,Yellow,Daytime,0
+0.30000000000000004,0.6,0.1,2,Yellow,Daytime,0
+0.30000000000000004,0.6,0.1,2,Yellow,Daytime,0
+0.30000000000000004,0.6,0.1,2,Yellow,Daytime,0
+0.4,0.1,0.5,2,Yellow,Daytime,0
+0.4,0.1,0.5,2,Yellow,Daytime,0
+0.4,0.1,0.5,2,Yellow,Daytime,0
+0.4,0.1,0.5,2,Yellow,Daytime,0
+0.4,0.1,0.5,2,Yellow,Daytime,0
+0.4,0.2,0.4,2,Yellow,Daytime,0
+0.4,0.2,0.4,2,Yellow,Daytime,0
+0.4,0.2,0.4,2,Yellow,Daytime,0
+0.4,0.2,0.4,2,Yellow,Daytime,0
+0.4,0.2,0.4,2,Yellow,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Yellow,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Yellow,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Yellow,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Yellow,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Yellow,Daytime,0
+0.4,0.4,0.2,2,Yellow,Daytime,0
+0.4,0.4,0.2,2,Yellow,Daytime,0
+0.4,0.4,0.2,2,Yellow,Daytime,0
+0.4,0.4,0.2,2,Yellow,Daytime,0
+0.4,0.4,0.2,2,Yellow,Daytime,0
+0.4,0.5,0.1,2,Yellow,Daytime,0
+0.4,0.5,0.1,2,Yellow,Daytime,0
+0.4,0.5,0.1,2,Yellow,Daytime,0
+0.4,0.5,0.1,2,Yellow,Daytime,0
+0.4,0.5,0.1,2,Yellow,Daytime,0
+0.5,0.1,0.4,2,Yellow,Daytime,0
+0.5,0.1,0.4,2,Yellow,Daytime,0
+0.5,0.1,0.4,2,Yellow,Daytime,0
+0.5,0.1,0.4,2,Yellow,Daytime,0
+0.5,0.1,0.4,2,Yellow,Daytime,0
+0.5,0.2,0.30000000000000004,2,Yellow,Daytime,0
+0.5,0.2,0.30000000000000004,2,Yellow,Daytime,0
+0.5,0.2,0.30000000000000004,2,Yellow,Daytime,0
+0.5,0.2,0.30000000000000004,2,Yellow,Daytime,0
+0.5,0.2,0.30000000000000004,2,Yellow,Daytime,0
+0.5,0.30000000000000004,0.2,2,Yellow,Daytime,0
+0.5,0.30000000000000004,0.2,2,Yellow,Daytime,0
+0.5,0.30000000000000004,0.2,2,Yellow,Daytime,0
+0.5,0.30000000000000004,0.2,2,Yellow,Daytime,0
+0.5,0.30000000000000004,0.2,2,Yellow,Daytime,0
+0.5,0.4,0.1,2,Yellow,Daytime,0
+0.5,0.4,0.1,2,Yellow,Daytime,0
+0.5,0.4,0.1,2,Yellow,Daytime,0
+0.5,0.4,0.1,2,Yellow,Daytime,0
+0.5,0.4,0.1,2,Yellow,Daytime,0
+0.6,0.1,0.30000000000000004,2,Yellow,Daytime,0
+0.6,0.1,0.30000000000000004,2,Yellow,Daytime,0
+0.6,0.1,0.30000000000000004,2,Yellow,Daytime,0
+0.6,0.1,0.30000000000000004,2,Yellow,Daytime,0
+0.6,0.1,0.30000000000000004,2,Yellow,Daytime,0
+0.6,0.2,0.2,2,Yellow,Daytime,0
+0.6,0.2,0.2,2,Yellow,Daytime,0
+0.6,0.2,0.2,2,Yellow,Daytime,0
+0.6,0.2,0.2,2,Yellow,Daytime,0
+0.6,0.2,0.2,2,Yellow,Daytime,0
+0.6,0.30000000000000004,0.1,2,Yellow,Daytime,0
+0.6,0.30000000000000004,0.1,2,Yellow,Daytime,0
+0.6,0.30000000000000004,0.1,2,Yellow,Daytime,0
+0.6,0.30000000000000004,0.1,2,Yellow,Daytime,0
+0.6,0.30000000000000004,0.1,2,Yellow,Daytime,0
+0.7,0.1,0.2,2,Yellow,Daytime,0
+0.7,0.1,0.2,2,Yellow,Daytime,0
+0.7,0.1,0.2,2,Yellow,Daytime,0
+0.7,0.1,0.2,2,Yellow,Daytime,0
+0.7,0.1,0.2,2,Yellow,Daytime,0
+0.7,0.2,0.1,2,Yellow,Daytime,0
+0.7,0.2,0.1,2,Yellow,Daytime,0
+0.7,0.2,0.1,2,Yellow,Daytime,0
+0.7,0.2,0.1,2,Yellow,Daytime,0
+0.7,0.2,0.1,2,Yellow,Daytime,0
+0.7999999999999999,0.1,0.1,2,Yellow,Daytime,0
+0.7999999999999999,0.1,0.1,2,Yellow,Daytime,0
+0.7999999999999999,0.1,0.1,2,Yellow,Daytime,0
+0.7999999999999999,0.1,0.1,2,Yellow,Daytime,0
+0.7999999999999999,0.1,0.1,2,Yellow,Daytime,0
+0.1,0.1,0.7999999999999999,2,Yellow,Night time,570
+0.1,0.1,0.7999999999999999,2,Yellow,Night time,570
+0.1,0.1,0.7999999999999999,2,Yellow,Night time,570
+0.1,0.1,0.7999999999999999,2,Yellow,Night time,570
+0.1,0.1,0.7999999999999999,2,Yellow,Night time,570
+0.1,0.2,0.7,2,Yellow,Night time,570
+0.1,0.2,0.7,2,Yellow,Night time,570
+0.1,0.2,0.7,2,Yellow,Night time,570
+0.1,0.2,0.7,2,Yellow,Night time,570
+0.1,0.2,0.7,2,Yellow,Night time,570
+0.1,0.30000000000000004,0.6,2,Yellow,Night time,570
+0.1,0.30000000000000004,0.6,2,Yellow,Night time,570
+0.1,0.30000000000000004,0.6,2,Yellow,Night time,570
+0.1,0.30000000000000004,0.6,2,Yellow,Night time,570
+0.1,0.30000000000000004,0.6,2,Yellow,Night time,570
+0.1,0.4,0.5,2,Yellow,Night time,570
+0.1,0.4,0.5,2,Yellow,Night time,570
+0.1,0.4,0.5,2,Yellow,Night time,570
+0.1,0.4,0.5,2,Yellow,Night time,570
+0.1,0.4,0.5,2,Yellow,Night time,570
+0.1,0.5,0.4,2,Yellow,Night time,570
+0.1,0.5,0.4,2,Yellow,Night time,570
+0.1,0.5,0.4,2,Yellow,Night time,570
+0.1,0.5,0.4,2,Yellow,Night time,570
+0.1,0.5,0.4,2,Yellow,Night time,570
+0.1,0.6,0.30000000000000004,2,Yellow,Night time,570
+0.1,0.6,0.30000000000000004,2,Yellow,Night time,570
+0.1,0.6,0.30000000000000004,2,Yellow,Night time,570
+0.1,0.6,0.30000000000000004,2,Yellow,Night time,570
+0.1,0.6,0.30000000000000004,2,Yellow,Night time,570
+0.1,0.7,0.2,2,Yellow,Night time,570
+0.1,0.7,0.2,2,Yellow,Night time,570
+0.1,0.7,0.2,2,Yellow,Night time,570
+0.1,0.7,0.2,2,Yellow,Night time,570
+0.1,0.7,0.2,2,Yellow,Night time,570
+0.1,0.7999999999999999,0.1,2,Yellow,Night time,0
+0.1,0.7999999999999999,0.1,2,Yellow,Night time,0
+0.1,0.7999999999999999,0.1,2,Yellow,Night time,0
+0.1,0.7999999999999999,0.1,2,Yellow,Night time,0
+0.1,0.7999999999999999,0.1,2,Yellow,Night time,0
+0.2,0.1,0.7,2,Yellow,Night time,570
+0.2,0.1,0.7,2,Yellow,Night time,570
+0.2,0.1,0.7,2,Yellow,Night time,570
+0.2,0.1,0.7,2,Yellow,Night time,570
+0.2,0.1,0.7,2,Yellow,Night time,570
+0.2,0.2,0.6,2,Yellow,Night time,570
+0.2,0.2,0.6,2,Yellow,Night time,570
+0.2,0.2,0.6,2,Yellow,Night time,570
+0.2,0.2,0.6,2,Yellow,Night time,570
+0.2,0.2,0.6,2,Yellow,Night time,570
+0.2,0.30000000000000004,0.5,2,Yellow,Night time,570
+0.2,0.30000000000000004,0.5,2,Yellow,Night time,570
+0.2,0.30000000000000004,0.5,2,Yellow,Night time,570
+0.2,0.30000000000000004,0.5,2,Yellow,Night time,570
+0.2,0.30000000000000004,0.5,2,Yellow,Night time,570
+0.2,0.4,0.4,2,Yellow,Night time,568
+0.2,0.4,0.4,2,Yellow,Night time,565
+0.2,0.4,0.4,2,Yellow,Night time,567
+0.2,0.4,0.4,2,Yellow,Night time,565
+0.2,0.4,0.4,2,Yellow,Night time,564
+0.2,0.5,0.30000000000000004,2,Yellow,Night time,551
+0.2,0.5,0.30000000000000004,2,Yellow,Night time,552
+0.2,0.5,0.30000000000000004,2,Yellow,Night time,552
+0.2,0.5,0.30000000000000004,2,Yellow,Night time,551
+0.2,0.5,0.30000000000000004,2,Yellow,Night time,546
+0.2,0.6,0.2,2,Yellow,Night time,546
+0.2,0.6,0.2,2,Yellow,Night time,547
+0.2,0.6,0.2,2,Yellow,Night time,548
+0.2,0.6,0.2,2,Yellow,Night time,544
+0.2,0.6,0.2,2,Yellow,Night time,540
+0.2,0.7,0.1,2,Yellow,Night time,0
+0.2,0.7,0.1,2,Yellow,Night time,0
+0.2,0.7,0.1,2,Yellow,Night time,0
+0.2,0.7,0.1,2,Yellow,Night time,0
+0.2,0.7,0.1,2,Yellow,Night time,0
+0.30000000000000004,0.1,0.6,2,Yellow,Night time,263
+0.30000000000000004,0.1,0.6,2,Yellow,Night time,271
+0.30000000000000004,0.1,0.6,2,Yellow,Night time,255
+0.30000000000000004,0.1,0.6,2,Yellow,Night time,265
+0.30000000000000004,0.1,0.6,2,Yellow,Night time,263
+0.30000000000000004,0.2,0.5,2,Yellow,Night time,260
+0.30000000000000004,0.2,0.5,2,Yellow,Night time,271
+0.30000000000000004,0.2,0.5,2,Yellow,Night time,251
+0.30000000000000004,0.2,0.5,2,Yellow,Night time,264
+0.30000000000000004,0.2,0.5,2,Yellow,Night time,260
+0.30000000000000004,0.30000000000000004,0.4,2,Yellow,Night time,272
+0.30000000000000004,0.30000000000000004,0.4,2,Yellow,Night time,300
+0.30000000000000004,0.30000000000000004,0.4,2,Yellow,Night time,282
+0.30000000000000004,0.30000000000000004,0.4,2,Yellow,Night time,288
+0.30000000000000004,0.30000000000000004,0.4,2,Yellow,Night time,281
+0.30000000000000004,0.4,0.30000000000000004,2,Yellow,Night time,267
+0.30000000000000004,0.4,0.30000000000000004,2,Yellow,Night time,295
+0.30000000000000004,0.4,0.30000000000000004,2,Yellow,Night time,284
+0.30000000000000004,0.4,0.30000000000000004,2,Yellow,Night time,286
+0.30000000000000004,0.4,0.30000000000000004,2,Yellow,Night time,284
+0.30000000000000004,0.5,0.2,2,Yellow,Night time,268
+0.30000000000000004,0.5,0.2,2,Yellow,Night time,295
+0.30000000000000004,0.5,0.2,2,Yellow,Night time,284
+0.30000000000000004,0.5,0.2,2,Yellow,Night time,283
+0.30000000000000004,0.5,0.2,2,Yellow,Night time,283
+0.30000000000000004,0.6,0.1,2,Yellow,Night time,269
+0.30000000000000004,0.6,0.1,2,Yellow,Night time,297
+0.30000000000000004,0.6,0.1,2,Yellow,Night time,287
+0.30000000000000004,0.6,0.1,2,Yellow,Night time,287
+0.30000000000000004,0.6,0.1,2,Yellow,Night time,286
+0.4,0.1,0.5,2,Yellow,Night time,0
+0.4,0.1,0.5,2,Yellow,Night time,0
+0.4,0.1,0.5,2,Yellow,Night time,0
+0.4,0.1,0.5,2,Yellow,Night time,0
+0.4,0.1,0.5,2,Yellow,Night time,0
+0.4,0.2,0.4,2,Yellow,Night time,3
+0.4,0.2,0.4,2,Yellow,Night time,0
+0.4,0.2,0.4,2,Yellow,Night time,2
+0.4,0.2,0.4,2,Yellow,Night time,2
+0.4,0.2,0.4,2,Yellow,Night time,1
+0.4,0.30000000000000004,0.30000000000000004,2,Yellow,Night time,3
+0.4,0.30000000000000004,0.30000000000000004,2,Yellow,Night time,0
+0.4,0.30000000000000004,0.30000000000000004,2,Yellow,Night time,2
+0.4,0.30000000000000004,0.30000000000000004,2,Yellow,Night time,3
+0.4,0.30000000000000004,0.30000000000000004,2,Yellow,Night time,1
+0.4,0.4,0.2,2,Yellow,Night time,3
+0.4,0.4,0.2,2,Yellow,Night time,2
+0.4,0.4,0.2,2,Yellow,Night time,2
+0.4,0.4,0.2,2,Yellow,Night time,3
+0.4,0.4,0.2,2,Yellow,Night time,1
+0.4,0.5,0.1,2,Yellow,Night time,3
+0.4,0.5,0.1,2,Yellow,Night time,2
+0.4,0.5,0.1,2,Yellow,Night time,2
+0.4,0.5,0.1,2,Yellow,Night time,3
+0.4,0.5,0.1,2,Yellow,Night time,3
+0.5,0.1,0.4,2,Yellow,Night time,0
+0.5,0.1,0.4,2,Yellow,Night time,0
+0.5,0.1,0.4,2,Yellow,Night time,0
+0.5,0.1,0.4,2,Yellow,Night time,0
+0.5,0.1,0.4,2,Yellow,Night time,0
+0.5,0.2,0.30000000000000004,2,Yellow,Night time,0
+0.5,0.2,0.30000000000000004,2,Yellow,Night time,0
+0.5,0.2,0.30000000000000004,2,Yellow,Night time,0
+0.5,0.2,0.30000000000000004,2,Yellow,Night time,0
+0.5,0.2,0.30000000000000004,2,Yellow,Night time,0
+0.5,0.30000000000000004,0.2,2,Yellow,Night time,0
+0.5,0.30000000000000004,0.2,2,Yellow,Night time,0
+0.5,0.30000000000000004,0.2,2,Yellow,Night time,0
+0.5,0.30000000000000004,0.2,2,Yellow,Night time,0
+0.5,0.30000000000000004,0.2,2,Yellow,Night time,0
+0.5,0.4,0.1,2,Yellow,Night time,0
+0.5,0.4,0.1,2,Yellow,Night time,0
+0.5,0.4,0.1,2,Yellow,Night time,0
+0.5,0.4,0.1,2,Yellow,Night time,0
+0.5,0.4,0.1,2,Yellow,Night time,0
+0.6,0.1,0.30000000000000004,2,Yellow,Night time,0
+0.6,0.1,0.30000000000000004,2,Yellow,Night time,0
+0.6,0.1,0.30000000000000004,2,Yellow,Night time,0
+0.6,0.1,0.30000000000000004,2,Yellow,Night time,0
+0.6,0.1,0.30000000000000004,2,Yellow,Night time,0
+0.6,0.2,0.2,2,Yellow,Night time,0
+0.6,0.2,0.2,2,Yellow,Night time,0
+0.6,0.2,0.2,2,Yellow,Night time,0
+0.6,0.2,0.2,2,Yellow,Night time,0
+0.6,0.2,0.2,2,Yellow,Night time,0
+0.6,0.30000000000000004,0.1,2,Yellow,Night time,0
+0.6,0.30000000000000004,0.1,2,Yellow,Night time,0
+0.6,0.30000000000000004,0.1,2,Yellow,Night time,0
+0.6,0.30000000000000004,0.1,2,Yellow,Night time,0
+0.6,0.30000000000000004,0.1,2,Yellow,Night time,0
+0.7,0.1,0.2,2,Yellow,Night time,0
+0.7,0.1,0.2,2,Yellow,Night time,0
+0.7,0.1,0.2,2,Yellow,Night time,0
+0.7,0.1,0.2,2,Yellow,Night time,0
+0.7,0.1,0.2,2,Yellow,Night time,0
+0.7,0.2,0.1,2,Yellow,Night time,0
+0.7,0.2,0.1,2,Yellow,Night time,0
+0.7,0.2,0.1,2,Yellow,Night time,0
+0.7,0.2,0.1,2,Yellow,Night time,0
+0.7,0.2,0.1,2,Yellow,Night time,0
+0.7999999999999999,0.1,0.1,2,Yellow,Night time,0
+0.7999999999999999,0.1,0.1,2,Yellow,Night time,0
+0.7999999999999999,0.1,0.1,2,Yellow,Night time,0
+0.7999999999999999,0.1,0.1,2,Yellow,Night time,0
+0.7999999999999999,0.1,0.1,2,Yellow,Night time,0
+0.1,0.1,0.7999999999999999,2,Orange,Daytime,570
+0.1,0.1,0.7999999999999999,2,Orange,Daytime,570
+0.1,0.1,0.7999999999999999,2,Orange,Daytime,570
+0.1,0.1,0.7999999999999999,2,Orange,Daytime,570
+0.1,0.1,0.7999999999999999,2,Orange,Daytime,570
+0.1,0.2,0.7,2,Orange,Daytime,570
+0.1,0.2,0.7,2,Orange,Daytime,570
+0.1,0.2,0.7,2,Orange,Daytime,570
+0.1,0.2,0.7,2,Orange,Daytime,570
+0.1,0.2,0.7,2,Orange,Daytime,570
+0.1,0.30000000000000004,0.6,2,Orange,Daytime,570
+0.1,0.30000000000000004,0.6,2,Orange,Daytime,570
+0.1,0.30000000000000004,0.6,2,Orange,Daytime,570
+0.1,0.30000000000000004,0.6,2,Orange,Daytime,570
+0.1,0.30000000000000004,0.6,2,Orange,Daytime,570
+0.1,0.4,0.5,2,Orange,Daytime,570
+0.1,0.4,0.5,2,Orange,Daytime,570
+0.1,0.4,0.5,2,Orange,Daytime,570
+0.1,0.4,0.5,2,Orange,Daytime,570
+0.1,0.4,0.5,2,Orange,Daytime,570
+0.1,0.5,0.4,2,Orange,Daytime,546
+0.1,0.5,0.4,2,Orange,Daytime,547
+0.1,0.5,0.4,2,Orange,Daytime,548
+0.1,0.5,0.4,2,Orange,Daytime,544
+0.1,0.5,0.4,2,Orange,Daytime,540
+0.1,0.6,0.30000000000000004,2,Orange,Daytime,507
+0.1,0.6,0.30000000000000004,2,Orange,Daytime,520
+0.1,0.6,0.30000000000000004,2,Orange,Daytime,511
+0.1,0.6,0.30000000000000004,2,Orange,Daytime,514
+0.1,0.6,0.30000000000000004,2,Orange,Daytime,511
+0.1,0.7,0.2,2,Orange,Daytime,452
+0.1,0.7,0.2,2,Orange,Daytime,483
+0.1,0.7,0.2,2,Orange,Daytime,458
+0.1,0.7,0.2,2,Orange,Daytime,463
+0.1,0.7,0.2,2,Orange,Daytime,454
+0.1,0.7999999999999999,0.1,2,Orange,Daytime,0
+0.1,0.7999999999999999,0.1,2,Orange,Daytime,0
+0.1,0.7999999999999999,0.1,2,Orange,Daytime,0
+0.1,0.7999999999999999,0.1,2,Orange,Daytime,0
+0.1,0.7999999999999999,0.1,2,Orange,Daytime,0
+0.2,0.1,0.7,2,Orange,Daytime,570
+0.2,0.1,0.7,2,Orange,Daytime,570
+0.2,0.1,0.7,2,Orange,Daytime,570
+0.2,0.1,0.7,2,Orange,Daytime,570
+0.2,0.1,0.7,2,Orange,Daytime,570
+0.2,0.2,0.6,2,Orange,Daytime,551
+0.2,0.2,0.6,2,Orange,Daytime,550
+0.2,0.2,0.6,2,Orange,Daytime,551
+0.2,0.2,0.6,2,Orange,Daytime,551
+0.2,0.2,0.6,2,Orange,Daytime,546
+0.2,0.30000000000000004,0.5,2,Orange,Daytime,488
+0.2,0.30000000000000004,0.5,2,Orange,Daytime,509
+0.2,0.30000000000000004,0.5,2,Orange,Daytime,488
+0.2,0.30000000000000004,0.5,2,Orange,Daytime,493
+0.2,0.30000000000000004,0.5,2,Orange,Daytime,485
+0.2,0.4,0.4,2,Orange,Daytime,269
+0.2,0.4,0.4,2,Orange,Daytime,296
+0.2,0.4,0.4,2,Orange,Daytime,286
+0.2,0.4,0.4,2,Orange,Daytime,287
+0.2,0.4,0.4,2,Orange,Daytime,286
+0.2,0.5,0.30000000000000004,2,Orange,Daytime,223
+0.2,0.5,0.30000000000000004,2,Orange,Daytime,240
+0.2,0.5,0.30000000000000004,2,Orange,Daytime,228
+0.2,0.5,0.30000000000000004,2,Orange,Daytime,229
+0.2,0.5,0.30000000000000004,2,Orange,Daytime,226
+0.2,0.6,0.2,2,Orange,Daytime,47
+0.2,0.6,0.2,2,Orange,Daytime,69
+0.2,0.6,0.2,2,Orange,Daytime,64
+0.2,0.6,0.2,2,Orange,Daytime,56
+0.2,0.6,0.2,2,Orange,Daytime,55
+0.2,0.7,0.1,2,Orange,Daytime,0
+0.2,0.7,0.1,2,Orange,Daytime,0
+0.2,0.7,0.1,2,Orange,Daytime,0
+0.2,0.7,0.1,2,Orange,Daytime,0
+0.2,0.7,0.1,2,Orange,Daytime,0
+0.30000000000000004,0.1,0.6,2,Orange,Daytime,61
+0.30000000000000004,0.1,0.6,2,Orange,Daytime,69
+0.30000000000000004,0.1,0.6,2,Orange,Daytime,64
+0.30000000000000004,0.1,0.6,2,Orange,Daytime,63
+0.30000000000000004,0.1,0.6,2,Orange,Daytime,64
+0.30000000000000004,0.2,0.5,2,Orange,Daytime,50
+0.30000000000000004,0.2,0.5,2,Orange,Daytime,53
+0.30000000000000004,0.2,0.5,2,Orange,Daytime,54
+0.30000000000000004,0.2,0.5,2,Orange,Daytime,51
+0.30000000000000004,0.2,0.5,2,Orange,Daytime,54
+0.30000000000000004,0.30000000000000004,0.4,2,Orange,Daytime,34
+0.30000000000000004,0.30000000000000004,0.4,2,Orange,Daytime,43
+0.30000000000000004,0.30000000000000004,0.4,2,Orange,Daytime,46
+0.30000000000000004,0.30000000000000004,0.4,2,Orange,Daytime,39
+0.30000000000000004,0.30000000000000004,0.4,2,Orange,Daytime,41
+0.30000000000000004,0.4,0.30000000000000004,2,Orange,Daytime,3
+0.30000000000000004,0.4,0.30000000000000004,2,Orange,Daytime,2
+0.30000000000000004,0.4,0.30000000000000004,2,Orange,Daytime,2
+0.30000000000000004,0.4,0.30000000000000004,2,Orange,Daytime,3
+0.30000000000000004,0.4,0.30000000000000004,2,Orange,Daytime,1
+0.30000000000000004,0.5,0.2,2,Orange,Daytime,0
+0.30000000000000004,0.5,0.2,2,Orange,Daytime,2
+0.30000000000000004,0.5,0.2,2,Orange,Daytime,0
+0.30000000000000004,0.5,0.2,2,Orange,Daytime,0
+0.30000000000000004,0.5,0.2,2,Orange,Daytime,0
+0.30000000000000004,0.6,0.1,2,Orange,Daytime,0
+0.30000000000000004,0.6,0.1,2,Orange,Daytime,2
+0.30000000000000004,0.6,0.1,2,Orange,Daytime,0
+0.30000000000000004,0.6,0.1,2,Orange,Daytime,0
+0.30000000000000004,0.6,0.1,2,Orange,Daytime,0
+0.4,0.1,0.5,2,Orange,Daytime,0
+0.4,0.1,0.5,2,Orange,Daytime,0
+0.4,0.1,0.5,2,Orange,Daytime,0
+0.4,0.1,0.5,2,Orange,Daytime,0
+0.4,0.1,0.5,2,Orange,Daytime,0
+0.4,0.2,0.4,2,Orange,Daytime,0
+0.4,0.2,0.4,2,Orange,Daytime,0
+0.4,0.2,0.4,2,Orange,Daytime,0
+0.4,0.2,0.4,2,Orange,Daytime,0
+0.4,0.2,0.4,2,Orange,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Orange,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Orange,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Orange,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Orange,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Orange,Daytime,0
+0.4,0.4,0.2,2,Orange,Daytime,0
+0.4,0.4,0.2,2,Orange,Daytime,0
+0.4,0.4,0.2,2,Orange,Daytime,0
+0.4,0.4,0.2,2,Orange,Daytime,0
+0.4,0.4,0.2,2,Orange,Daytime,0
+0.4,0.5,0.1,2,Orange,Daytime,0
+0.4,0.5,0.1,2,Orange,Daytime,0
+0.4,0.5,0.1,2,Orange,Daytime,0
+0.4,0.5,0.1,2,Orange,Daytime,0
+0.4,0.5,0.1,2,Orange,Daytime,0
+0.5,0.1,0.4,2,Orange,Daytime,0
+0.5,0.1,0.4,2,Orange,Daytime,0
+0.5,0.1,0.4,2,Orange,Daytime,0
+0.5,0.1,0.4,2,Orange,Daytime,0
+0.5,0.1,0.4,2,Orange,Daytime,0
+0.5,0.2,0.30000000000000004,2,Orange,Daytime,0
+0.5,0.2,0.30000000000000004,2,Orange,Daytime,0
+0.5,0.2,0.30000000000000004,2,Orange,Daytime,0
+0.5,0.2,0.30000000000000004,2,Orange,Daytime,0
+0.5,0.2,0.30000000000000004,2,Orange,Daytime,0
+0.5,0.30000000000000004,0.2,2,Orange,Daytime,0
+0.5,0.30000000000000004,0.2,2,Orange,Daytime,0
+0.5,0.30000000000000004,0.2,2,Orange,Daytime,0
+0.5,0.30000000000000004,0.2,2,Orange,Daytime,0
+0.5,0.30000000000000004,0.2,2,Orange,Daytime,0
+0.5,0.4,0.1,2,Orange,Daytime,0
+0.5,0.4,0.1,2,Orange,Daytime,0
+0.5,0.4,0.1,2,Orange,Daytime,0
+0.5,0.4,0.1,2,Orange,Daytime,0
+0.5,0.4,0.1,2,Orange,Daytime,0
+0.6,0.1,0.30000000000000004,2,Orange,Daytime,0
+0.6,0.1,0.30000000000000004,2,Orange,Daytime,0
+0.6,0.1,0.30000000000000004,2,Orange,Daytime,0
+0.6,0.1,0.30000000000000004,2,Orange,Daytime,0
+0.6,0.1,0.30000000000000004,2,Orange,Daytime,0
+0.6,0.2,0.2,2,Orange,Daytime,0
+0.6,0.2,0.2,2,Orange,Daytime,0
+0.6,0.2,0.2,2,Orange,Daytime,0
+0.6,0.2,0.2,2,Orange,Daytime,0
+0.6,0.2,0.2,2,Orange,Daytime,0
+0.6,0.30000000000000004,0.1,2,Orange,Daytime,0
+0.6,0.30000000000000004,0.1,2,Orange,Daytime,0
+0.6,0.30000000000000004,0.1,2,Orange,Daytime,0
+0.6,0.30000000000000004,0.1,2,Orange,Daytime,0
+0.6,0.30000000000000004,0.1,2,Orange,Daytime,0
+0.7,0.1,0.2,2,Orange,Daytime,0
+0.7,0.1,0.2,2,Orange,Daytime,0
+0.7,0.1,0.2,2,Orange,Daytime,0
+0.7,0.1,0.2,2,Orange,Daytime,0
+0.7,0.1,0.2,2,Orange,Daytime,0
+0.7,0.2,0.1,2,Orange,Daytime,0
+0.7,0.2,0.1,2,Orange,Daytime,0
+0.7,0.2,0.1,2,Orange,Daytime,0
+0.7,0.2,0.1,2,Orange,Daytime,0
+0.7,0.2,0.1,2,Orange,Daytime,0
+0.7999999999999999,0.1,0.1,2,Orange,Daytime,0
+0.7999999999999999,0.1,0.1,2,Orange,Daytime,0
+0.7999999999999999,0.1,0.1,2,Orange,Daytime,0
+0.7999999999999999,0.1,0.1,2,Orange,Daytime,0
+0.7999999999999999,0.1,0.1,2,Orange,Daytime,0
+0.1,0.1,0.7999999999999999,2,Orange,Night time,570
+0.1,0.1,0.7999999999999999,2,Orange,Night time,570
+0.1,0.1,0.7999999999999999,2,Orange,Night time,570
+0.1,0.1,0.7999999999999999,2,Orange,Night time,570
+0.1,0.1,0.7999999999999999,2,Orange,Night time,570
+0.1,0.2,0.7,2,Orange,Night time,570
+0.1,0.2,0.7,2,Orange,Night time,570
+0.1,0.2,0.7,2,Orange,Night time,570
+0.1,0.2,0.7,2,Orange,Night time,570
+0.1,0.2,0.7,2,Orange,Night time,570
+0.1,0.30000000000000004,0.6,2,Orange,Night time,570
+0.1,0.30000000000000004,0.6,2,Orange,Night time,570
+0.1,0.30000000000000004,0.6,2,Orange,Night time,570
+0.1,0.30000000000000004,0.6,2,Orange,Night time,570
+0.1,0.30000000000000004,0.6,2,Orange,Night time,570
+0.1,0.4,0.5,2,Orange,Night time,570
+0.1,0.4,0.5,2,Orange,Night time,570
+0.1,0.4,0.5,2,Orange,Night time,570
+0.1,0.4,0.5,2,Orange,Night time,570
+0.1,0.4,0.5,2,Orange,Night time,570
+0.1,0.5,0.4,2,Orange,Night time,570
+0.1,0.5,0.4,2,Orange,Night time,570
+0.1,0.5,0.4,2,Orange,Night time,570
+0.1,0.5,0.4,2,Orange,Night time,570
+0.1,0.5,0.4,2,Orange,Night time,570
+0.1,0.6,0.30000000000000004,2,Orange,Night time,570
+0.1,0.6,0.30000000000000004,2,Orange,Night time,570
+0.1,0.6,0.30000000000000004,2,Orange,Night time,570
+0.1,0.6,0.30000000000000004,2,Orange,Night time,570
+0.1,0.6,0.30000000000000004,2,Orange,Night time,570
+0.1,0.7,0.2,2,Orange,Night time,570
+0.1,0.7,0.2,2,Orange,Night time,570
+0.1,0.7,0.2,2,Orange,Night time,570
+0.1,0.7,0.2,2,Orange,Night time,570
+0.1,0.7,0.2,2,Orange,Night time,570
+0.1,0.7999999999999999,0.1,2,Orange,Night time,0
+0.1,0.7999999999999999,0.1,2,Orange,Night time,0
+0.1,0.7999999999999999,0.1,2,Orange,Night time,0
+0.1,0.7999999999999999,0.1,2,Orange,Night time,0
+0.1,0.7999999999999999,0.1,2,Orange,Night time,0
+0.2,0.1,0.7,2,Orange,Night time,570
+0.2,0.1,0.7,2,Orange,Night time,570
+0.2,0.1,0.7,2,Orange,Night time,570
+0.2,0.1,0.7,2,Orange,Night time,570
+0.2,0.1,0.7,2,Orange,Night time,570
+0.2,0.2,0.6,2,Orange,Night time,570
+0.2,0.2,0.6,2,Orange,Night time,570
+0.2,0.2,0.6,2,Orange,Night time,570
+0.2,0.2,0.6,2,Orange,Night time,570
+0.2,0.2,0.6,2,Orange,Night time,570
+0.2,0.30000000000000004,0.5,2,Orange,Night time,570
+0.2,0.30000000000000004,0.5,2,Orange,Night time,570
+0.2,0.30000000000000004,0.5,2,Orange,Night time,570
+0.2,0.30000000000000004,0.5,2,Orange,Night time,570
+0.2,0.30000000000000004,0.5,2,Orange,Night time,570
+0.2,0.4,0.4,2,Orange,Night time,570
+0.2,0.4,0.4,2,Orange,Night time,570
+0.2,0.4,0.4,2,Orange,Night time,570
+0.2,0.4,0.4,2,Orange,Night time,570
+0.2,0.4,0.4,2,Orange,Night time,570
+0.2,0.5,0.30000000000000004,2,Orange,Night time,570
+0.2,0.5,0.30000000000000004,2,Orange,Night time,570
+0.2,0.5,0.30000000000000004,2,Orange,Night time,570
+0.2,0.5,0.30000000000000004,2,Orange,Night time,570
+0.2,0.5,0.30000000000000004,2,Orange,Night time,570
+0.2,0.6,0.2,2,Orange,Night time,570
+0.2,0.6,0.2,2,Orange,Night time,570
+0.2,0.6,0.2,2,Orange,Night time,570
+0.2,0.6,0.2,2,Orange,Night time,570
+0.2,0.6,0.2,2,Orange,Night time,570
+0.2,0.7,0.1,2,Orange,Night time,0
+0.2,0.7,0.1,2,Orange,Night time,0
+0.2,0.7,0.1,2,Orange,Night time,0
+0.2,0.7,0.1,2,Orange,Night time,0
+0.2,0.7,0.1,2,Orange,Night time,0
+0.30000000000000004,0.1,0.6,2,Orange,Night time,321
+0.30000000000000004,0.1,0.6,2,Orange,Night time,334
+0.30000000000000004,0.1,0.6,2,Orange,Night time,329
+0.30000000000000004,0.1,0.6,2,Orange,Night time,328
+0.30000000000000004,0.1,0.6,2,Orange,Night time,329
+0.30000000000000004,0.2,0.5,2,Orange,Night time,301
+0.30000000000000004,0.2,0.5,2,Orange,Night time,321
+0.30000000000000004,0.2,0.5,2,Orange,Night time,309
+0.30000000000000004,0.2,0.5,2,Orange,Night time,317
+0.30000000000000004,0.2,0.5,2,Orange,Night time,308
+0.30000000000000004,0.30000000000000004,0.4,2,Orange,Night time,424
+0.30000000000000004,0.30000000000000004,0.4,2,Orange,Night time,460
+0.30000000000000004,0.30000000000000004,0.4,2,Orange,Night time,433
+0.30000000000000004,0.30000000000000004,0.4,2,Orange,Night time,436
+0.30000000000000004,0.30000000000000004,0.4,2,Orange,Night time,424
+0.30000000000000004,0.4,0.30000000000000004,2,Orange,Night time,433
+0.30000000000000004,0.4,0.30000000000000004,2,Orange,Night time,464
+0.30000000000000004,0.4,0.30000000000000004,2,Orange,Night time,441
+0.30000000000000004,0.4,0.30000000000000004,2,Orange,Night time,453
+0.30000000000000004,0.4,0.30000000000000004,2,Orange,Night time,439
+0.30000000000000004,0.5,0.2,2,Orange,Night time,433
+0.30000000000000004,0.5,0.2,2,Orange,Night time,464
+0.30000000000000004,0.5,0.2,2,Orange,Night time,441
+0.30000000000000004,0.5,0.2,2,Orange,Night time,453
+0.30000000000000004,0.5,0.2,2,Orange,Night time,439
+0.30000000000000004,0.6,0.1,2,Orange,Night time,495
+0.30000000000000004,0.6,0.1,2,Orange,Night time,511
+0.30000000000000004,0.6,0.1,2,Orange,Night time,490
+0.30000000000000004,0.6,0.1,2,Orange,Night time,498
+0.30000000000000004,0.6,0.1,2,Orange,Night time,488
+0.4,0.1,0.5,2,Orange,Night time,3
+0.4,0.1,0.5,2,Orange,Night time,0
+0.4,0.1,0.5,2,Orange,Night time,2
+0.4,0.1,0.5,2,Orange,Night time,1
+0.4,0.1,0.5,2,Orange,Night time,1
+0.4,0.2,0.4,2,Orange,Night time,38
+0.4,0.2,0.4,2,Orange,Night time,45
+0.4,0.2,0.4,2,Orange,Night time,48
+0.4,0.2,0.4,2,Orange,Night time,43
+0.4,0.2,0.4,2,Orange,Night time,46
+0.4,0.30000000000000004,0.30000000000000004,2,Orange,Night time,39
+0.4,0.30000000000000004,0.30000000000000004,2,Orange,Night time,46
+0.4,0.30000000000000004,0.30000000000000004,2,Orange,Night time,48
+0.4,0.30000000000000004,0.30000000000000004,2,Orange,Night time,43
+0.4,0.30000000000000004,0.30000000000000004,2,Orange,Night time,47
+0.4,0.4,0.2,2,Orange,Night time,39
+0.4,0.4,0.2,2,Orange,Night time,48
+0.4,0.4,0.2,2,Orange,Night time,48
+0.4,0.4,0.2,2,Orange,Night time,43
+0.4,0.4,0.2,2,Orange,Night time,49
+0.4,0.5,0.1,2,Orange,Night time,43
+0.4,0.5,0.1,2,Orange,Night time,60
+0.4,0.5,0.1,2,Orange,Night time,54
+0.4,0.5,0.1,2,Orange,Night time,50
+0.4,0.5,0.1,2,Orange,Night time,53
+0.5,0.1,0.4,2,Orange,Night time,0
+0.5,0.1,0.4,2,Orange,Night time,0
+0.5,0.1,0.4,2,Orange,Night time,0
+0.5,0.1,0.4,2,Orange,Night time,0
+0.5,0.1,0.4,2,Orange,Night time,0
+0.5,0.2,0.30000000000000004,2,Orange,Night time,0
+0.5,0.2,0.30000000000000004,2,Orange,Night time,0
+0.5,0.2,0.30000000000000004,2,Orange,Night time,0
+0.5,0.2,0.30000000000000004,2,Orange,Night time,0
+0.5,0.2,0.30000000000000004,2,Orange,Night time,0
+0.5,0.30000000000000004,0.2,2,Orange,Night time,0
+0.5,0.30000000000000004,0.2,2,Orange,Night time,0
+0.5,0.30000000000000004,0.2,2,Orange,Night time,0
+0.5,0.30000000000000004,0.2,2,Orange,Night time,0
+0.5,0.30000000000000004,0.2,2,Orange,Night time,0
+0.5,0.4,0.1,2,Orange,Night time,0
+0.5,0.4,0.1,2,Orange,Night time,0
+0.5,0.4,0.1,2,Orange,Night time,0
+0.5,0.4,0.1,2,Orange,Night time,0
+0.5,0.4,0.1,2,Orange,Night time,0
+0.6,0.1,0.30000000000000004,2,Orange,Night time,0
+0.6,0.1,0.30000000000000004,2,Orange,Night time,0
+0.6,0.1,0.30000000000000004,2,Orange,Night time,0
+0.6,0.1,0.30000000000000004,2,Orange,Night time,0
+0.6,0.1,0.30000000000000004,2,Orange,Night time,0
+0.6,0.2,0.2,2,Orange,Night time,0
+0.6,0.2,0.2,2,Orange,Night time,0
+0.6,0.2,0.2,2,Orange,Night time,0
+0.6,0.2,0.2,2,Orange,Night time,0
+0.6,0.2,0.2,2,Orange,Night time,0
+0.6,0.30000000000000004,0.1,2,Orange,Night time,0
+0.6,0.30000000000000004,0.1,2,Orange,Night time,0
+0.6,0.30000000000000004,0.1,2,Orange,Night time,0
+0.6,0.30000000000000004,0.1,2,Orange,Night time,0
+0.6,0.30000000000000004,0.1,2,Orange,Night time,0
+0.7,0.1,0.2,2,Orange,Night time,0
+0.7,0.1,0.2,2,Orange,Night time,0
+0.7,0.1,0.2,2,Orange,Night time,0
+0.7,0.1,0.2,2,Orange,Night time,0
+0.7,0.1,0.2,2,Orange,Night time,0
+0.7,0.2,0.1,2,Orange,Night time,0
+0.7,0.2,0.1,2,Orange,Night time,0
+0.7,0.2,0.1,2,Orange,Night time,0
+0.7,0.2,0.1,2,Orange,Night time,0
+0.7,0.2,0.1,2,Orange,Night time,0
+0.7999999999999999,0.1,0.1,2,Orange,Night time,0
+0.7999999999999999,0.1,0.1,2,Orange,Night time,0
+0.7999999999999999,0.1,0.1,2,Orange,Night time,0
+0.7999999999999999,0.1,0.1,2,Orange,Night time,0
+0.7999999999999999,0.1,0.1,2,Orange,Night time,0
+0.1,0.1,0.7999999999999999,2,Red,Daytime,570
+0.1,0.1,0.7999999999999999,2,Red,Daytime,570
+0.1,0.1,0.7999999999999999,2,Red,Daytime,570
+0.1,0.1,0.7999999999999999,2,Red,Daytime,570
+0.1,0.1,0.7999999999999999,2,Red,Daytime,570
+0.1,0.2,0.7,2,Red,Daytime,570
+0.1,0.2,0.7,2,Red,Daytime,570
+0.1,0.2,0.7,2,Red,Daytime,570
+0.1,0.2,0.7,2,Red,Daytime,570
+0.1,0.2,0.7,2,Red,Daytime,570
+0.1,0.30000000000000004,0.6,2,Red,Daytime,570
+0.1,0.30000000000000004,0.6,2,Red,Daytime,570
+0.1,0.30000000000000004,0.6,2,Red,Daytime,570
+0.1,0.30000000000000004,0.6,2,Red,Daytime,570
+0.1,0.30000000000000004,0.6,2,Red,Daytime,570
+0.1,0.4,0.5,2,Red,Daytime,570
+0.1,0.4,0.5,2,Red,Daytime,570
+0.1,0.4,0.5,2,Red,Daytime,570
+0.1,0.4,0.5,2,Red,Daytime,570
+0.1,0.4,0.5,2,Red,Daytime,570
+0.1,0.5,0.4,2,Red,Daytime,570
+0.1,0.5,0.4,2,Red,Daytime,570
+0.1,0.5,0.4,2,Red,Daytime,570
+0.1,0.5,0.4,2,Red,Daytime,570
+0.1,0.5,0.4,2,Red,Daytime,570
+0.1,0.6,0.30000000000000004,2,Red,Daytime,570
+0.1,0.6,0.30000000000000004,2,Red,Daytime,570
+0.1,0.6,0.30000000000000004,2,Red,Daytime,570
+0.1,0.6,0.30000000000000004,2,Red,Daytime,570
+0.1,0.6,0.30000000000000004,2,Red,Daytime,570
+0.1,0.7,0.2,2,Red,Daytime,570
+0.1,0.7,0.2,2,Red,Daytime,570
+0.1,0.7,0.2,2,Red,Daytime,570
+0.1,0.7,0.2,2,Red,Daytime,570
+0.1,0.7,0.2,2,Red,Daytime,570
+0.1,0.7999999999999999,0.1,2,Red,Daytime,0
+0.1,0.7999999999999999,0.1,2,Red,Daytime,0
+0.1,0.7999999999999999,0.1,2,Red,Daytime,0
+0.1,0.7999999999999999,0.1,2,Red,Daytime,0
+0.1,0.7999999999999999,0.1,2,Red,Daytime,0
+0.2,0.1,0.7,2,Red,Daytime,570
+0.2,0.1,0.7,2,Red,Daytime,570
+0.2,0.1,0.7,2,Red,Daytime,570
+0.2,0.1,0.7,2,Red,Daytime,570
+0.2,0.1,0.7,2,Red,Daytime,570
+0.2,0.2,0.6,2,Red,Daytime,570
+0.2,0.2,0.6,2,Red,Daytime,570
+0.2,0.2,0.6,2,Red,Daytime,570
+0.2,0.2,0.6,2,Red,Daytime,570
+0.2,0.2,0.6,2,Red,Daytime,570
+0.2,0.30000000000000004,0.5,2,Red,Daytime,568
+0.2,0.30000000000000004,0.5,2,Red,Daytime,565
+0.2,0.30000000000000004,0.5,2,Red,Daytime,567
+0.2,0.30000000000000004,0.5,2,Red,Daytime,565
+0.2,0.30000000000000004,0.5,2,Red,Daytime,564
+0.2,0.4,0.4,2,Red,Daytime,546
+0.2,0.4,0.4,2,Red,Daytime,545
+0.2,0.4,0.4,2,Red,Daytime,547
+0.2,0.4,0.4,2,Red,Daytime,544
+0.2,0.4,0.4,2,Red,Daytime,540
+0.2,0.5,0.30000000000000004,2,Red,Daytime,510
+0.2,0.5,0.30000000000000004,2,Red,Daytime,521
+0.2,0.5,0.30000000000000004,2,Red,Daytime,508
+0.2,0.5,0.30000000000000004,2,Red,Daytime,513
+0.2,0.5,0.30000000000000004,2,Red,Daytime,508
+0.2,0.6,0.2,2,Red,Daytime,487
+0.2,0.6,0.2,2,Red,Daytime,504
+0.2,0.6,0.2,2,Red,Daytime,486
+0.2,0.6,0.2,2,Red,Daytime,491
+0.2,0.6,0.2,2,Red,Daytime,485
+0.2,0.7,0.1,2,Red,Daytime,0
+0.2,0.7,0.1,2,Red,Daytime,0
+0.2,0.7,0.1,2,Red,Daytime,0
+0.2,0.7,0.1,2,Red,Daytime,0
+0.2,0.7,0.1,2,Red,Daytime,0
+0.30000000000000004,0.1,0.6,2,Red,Daytime,257
+0.30000000000000004,0.1,0.6,2,Red,Daytime,266
+0.30000000000000004,0.1,0.6,2,Red,Daytime,250
+0.30000000000000004,0.1,0.6,2,Red,Daytime,263
+0.30000000000000004,0.1,0.6,2,Red,Daytime,258
+0.30000000000000004,0.2,0.5,2,Red,Daytime,236
+0.30000000000000004,0.2,0.5,2,Red,Daytime,246
+0.30000000000000004,0.2,0.5,2,Red,Daytime,228
+0.30000000000000004,0.2,0.5,2,Red,Daytime,239
+0.30000000000000004,0.2,0.5,2,Red,Daytime,239
+0.30000000000000004,0.30000000000000004,0.4,2,Red,Daytime,220
+0.30000000000000004,0.30000000000000004,0.4,2,Red,Daytime,236
+0.30000000000000004,0.30000000000000004,0.4,2,Red,Daytime,218
+0.30000000000000004,0.30000000000000004,0.4,2,Red,Daytime,220
+0.30000000000000004,0.30000000000000004,0.4,2,Red,Daytime,219
+0.30000000000000004,0.4,0.30000000000000004,2,Red,Daytime,57
+0.30000000000000004,0.4,0.30000000000000004,2,Red,Daytime,68
+0.30000000000000004,0.4,0.30000000000000004,2,Red,Daytime,62
+0.30000000000000004,0.4,0.30000000000000004,2,Red,Daytime,58
+0.30000000000000004,0.4,0.30000000000000004,2,Red,Daytime,59
+0.30000000000000004,0.5,0.2,2,Red,Daytime,47
+0.30000000000000004,0.5,0.2,2,Red,Daytime,63
+0.30000000000000004,0.5,0.2,2,Red,Daytime,55
+0.30000000000000004,0.5,0.2,2,Red,Daytime,50
+0.30000000000000004,0.5,0.2,2,Red,Daytime,54
+0.30000000000000004,0.6,0.1,2,Red,Daytime,47
+0.30000000000000004,0.6,0.1,2,Red,Daytime,64
+0.30000000000000004,0.6,0.1,2,Red,Daytime,56
+0.30000000000000004,0.6,0.1,2,Red,Daytime,50
+0.30000000000000004,0.6,0.1,2,Red,Daytime,54
+0.4,0.1,0.5,2,Red,Daytime,0
+0.4,0.1,0.5,2,Red,Daytime,0
+0.4,0.1,0.5,2,Red,Daytime,0
+0.4,0.1,0.5,2,Red,Daytime,0
+0.4,0.1,0.5,2,Red,Daytime,0
+0.4,0.2,0.4,2,Red,Daytime,0
+0.4,0.2,0.4,2,Red,Daytime,0
+0.4,0.2,0.4,2,Red,Daytime,0
+0.4,0.2,0.4,2,Red,Daytime,0
+0.4,0.2,0.4,2,Red,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Red,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Red,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Red,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Red,Daytime,0
+0.4,0.30000000000000004,0.30000000000000004,2,Red,Daytime,0
+0.4,0.4,0.2,2,Red,Daytime,0
+0.4,0.4,0.2,2,Red,Daytime,0
+0.4,0.4,0.2,2,Red,Daytime,0
+0.4,0.4,0.2,2,Red,Daytime,0
+0.4,0.4,0.2,2,Red,Daytime,0
+0.4,0.5,0.1,2,Red,Daytime,0
+0.4,0.5,0.1,2,Red,Daytime,2
+0.4,0.5,0.1,2,Red,Daytime,0
+0.4,0.5,0.1,2,Red,Daytime,0
+0.4,0.5,0.1,2,Red,Daytime,0
+0.5,0.1,0.4,2,Red,Daytime,0
+0.5,0.1,0.4,2,Red,Daytime,0
+0.5,0.1,0.4,2,Red,Daytime,0
+0.5,0.1,0.4,2,Red,Daytime,0
+0.5,0.1,0.4,2,Red,Daytime,0
+0.5,0.2,0.30000000000000004,2,Red,Daytime,0
+0.5,0.2,0.30000000000000004,2,Red,Daytime,0
+0.5,0.2,0.30000000000000004,2,Red,Daytime,0
+0.5,0.2,0.30000000000000004,2,Red,Daytime,0
+0.5,0.2,0.30000000000000004,2,Red,Daytime,0
+0.5,0.30000000000000004,0.2,2,Red,Daytime,0
+0.5,0.30000000000000004,0.2,2,Red,Daytime,0
+0.5,0.30000000000000004,0.2,2,Red,Daytime,0
+0.5,0.30000000000000004,0.2,2,Red,Daytime,0
+0.5,0.30000000000000004,0.2,2,Red,Daytime,0
+0.5,0.4,0.1,2,Red,Daytime,0
+0.5,0.4,0.1,2,Red,Daytime,0
+0.5,0.4,0.1,2,Red,Daytime,0
+0.5,0.4,0.1,2,Red,Daytime,0
+0.5,0.4,0.1,2,Red,Daytime,0
+0.6,0.1,0.30000000000000004,2,Red,Daytime,0
+0.6,0.1,0.30000000000000004,2,Red,Daytime,0
+0.6,0.1,0.30000000000000004,2,Red,Daytime,0
+0.6,0.1,0.30000000000000004,2,Red,Daytime,0
+0.6,0.1,0.30000000000000004,2,Red,Daytime,0
+0.6,0.2,0.2,2,Red,Daytime,0
+0.6,0.2,0.2,2,Red,Daytime,0
+0.6,0.2,0.2,2,Red,Daytime,0
+0.6,0.2,0.2,2,Red,Daytime,0
+0.6,0.2,0.2,2,Red,Daytime,0
+0.6,0.30000000000000004,0.1,2,Red,Daytime,0
+0.6,0.30000000000000004,0.1,2,Red,Daytime,0
+0.6,0.30000000000000004,0.1,2,Red,Daytime,0
+0.6,0.30000000000000004,0.1,2,Red,Daytime,0
+0.6,0.30000000000000004,0.1,2,Red,Daytime,0
+0.7,0.1,0.2,2,Red,Daytime,0
+0.7,0.1,0.2,2,Red,Daytime,0
+0.7,0.1,0.2,2,Red,Daytime,0
+0.7,0.1,0.2,2,Red,Daytime,0
+0.7,0.1,0.2,2,Red,Daytime,0
+0.7,0.2,0.1,2,Red,Daytime,0
+0.7,0.2,0.1,2,Red,Daytime,0
+0.7,0.2,0.1,2,Red,Daytime,0
+0.7,0.2,0.1,2,Red,Daytime,0
+0.7,0.2,0.1,2,Red,Daytime,0
+0.7999999999999999,0.1,0.1,2,Red,Daytime,0
+0.7999999999999999,0.1,0.1,2,Red,Daytime,0
+0.7999999999999999,0.1,0.1,2,Red,Daytime,0
+0.7999999999999999,0.1,0.1,2,Red,Daytime,0
+0.7999999999999999,0.1,0.1,2,Red,Daytime,0
+0.1,0.1,0.7999999999999999,2,Red,Night time,570
+0.1,0.1,0.7999999999999999,2,Red,Night time,570
+0.1,0.1,0.7999999999999999,2,Red,Night time,570
+0.1,0.1,0.7999999999999999,2,Red,Night time,570
+0.1,0.1,0.7999999999999999,2,Red,Night time,570
+0.1,0.2,0.7,2,Red,Night time,570
+0.1,0.2,0.7,2,Red,Night time,570
+0.1,0.2,0.7,2,Red,Night time,570
+0.1,0.2,0.7,2,Red,Night time,570
+0.1,0.2,0.7,2,Red,Night time,570
+0.1,0.30000000000000004,0.6,2,Red,Night time,570
+0.1,0.30000000000000004,0.6,2,Red,Night time,570
+0.1,0.30000000000000004,0.6,2,Red,Night time,570
+0.1,0.30000000000000004,0.6,2,Red,Night time,570
+0.1,0.30000000000000004,0.6,2,Red,Night time,570
+0.1,0.4,0.5,2,Red,Night time,570
+0.1,0.4,0.5,2,Red,Night time,570
+0.1,0.4,0.5,2,Red,Night time,570
+0.1,0.4,0.5,2,Red,Night time,570
+0.1,0.4,0.5,2,Red,Night time,570
+0.1,0.5,0.4,2,Red,Night time,570
+0.1,0.5,0.4,2,Red,Night time,570
+0.1,0.5,0.4,2,Red,Night time,570
+0.1,0.5,0.4,2,Red,Night time,570
+0.1,0.5,0.4,2,Red,Night time,570
+0.1,0.6,0.30000000000000004,2,Red,Night time,570
+0.1,0.6,0.30000000000000004,2,Red,Night time,570
+0.1,0.6,0.30000000000000004,2,Red,Night time,570
+0.1,0.6,0.30000000000000004,2,Red,Night time,570
+0.1,0.6,0.30000000000000004,2,Red,Night time,570
+0.1,0.7,0.2,2,Red,Night time,570
+0.1,0.7,0.2,2,Red,Night time,570
+0.1,0.7,0.2,2,Red,Night time,570
+0.1,0.7,0.2,2,Red,Night time,570
+0.1,0.7,0.2,2,Red,Night time,570
+0.1,0.7999999999999999,0.1,2,Red,Night time,0
+0.1,0.7999999999999999,0.1,2,Red,Night time,0
+0.1,0.7999999999999999,0.1,2,Red,Night time,0
+0.1,0.7999999999999999,0.1,2,Red,Night time,0
+0.1,0.7999999999999999,0.1,2,Red,Night time,0
+0.2,0.1,0.7,2,Red,Night time,570
+0.2,0.1,0.7,2,Red,Night time,570
+0.2,0.1,0.7,2,Red,Night time,570
+0.2,0.1,0.7,2,Red,Night time,570
+0.2,0.1,0.7,2,Red,Night time,570
+0.2,0.2,0.6,2,Red,Night time,570
+0.2,0.2,0.6,2,Red,Night time,570
+0.2,0.2,0.6,2,Red,Night time,570
+0.2,0.2,0.6,2,Red,Night time,570
+0.2,0.2,0.6,2,Red,Night time,570
+0.2,0.30000000000000004,0.5,2,Red,Night time,570
+0.2,0.30000000000000004,0.5,2,Red,Night time,570
+0.2,0.30000000000000004,0.5,2,Red,Night time,570
+0.2,0.30000000000000004,0.5,2,Red,Night time,570
+0.2,0.30000000000000004,0.5,2,Red,Night time,570
+0.2,0.4,0.4,2,Red,Night time,570
+0.2,0.4,0.4,2,Red,Night time,570
+0.2,0.4,0.4,2,Red,Night time,570
+0.2,0.4,0.4,2,Red,Night time,570
+0.2,0.4,0.4,2,Red,Night time,570
+0.2,0.5,0.30000000000000004,2,Red,Night time,570
+0.2,0.5,0.30000000000000004,2,Red,Night time,570
+0.2,0.5,0.30000000000000004,2,Red,Night time,570
+0.2,0.5,0.30000000000000004,2,Red,Night time,570
+0.2,0.5,0.30000000000000004,2,Red,Night time,570
+0.2,0.6,0.2,2,Red,Night time,570
+0.2,0.6,0.2,2,Red,Night time,570
+0.2,0.6,0.2,2,Red,Night time,570
+0.2,0.6,0.2,2,Red,Night time,570
+0.2,0.6,0.2,2,Red,Night time,570
+0.2,0.7,0.1,2,Red,Night time,0
+0.2,0.7,0.1,2,Red,Night time,0
+0.2,0.7,0.1,2,Red,Night time,0
+0.2,0.7,0.1,2,Red,Night time,0
+0.2,0.7,0.1,2,Red,Night time,0
+0.30000000000000004,0.1,0.6,2,Red,Night time,337
+0.30000000000000004,0.1,0.6,2,Red,Night time,341
+0.30000000000000004,0.1,0.6,2,Red,Night time,345
+0.30000000000000004,0.1,0.6,2,Red,Night time,339
+0.30000000000000004,0.1,0.6,2,Red,Night time,337
+0.30000000000000004,0.2,0.5,2,Red,Night time,489
+0.30000000000000004,0.2,0.5,2,Red,Night time,500
+0.30000000000000004,0.2,0.5,2,Red,Night time,498
+0.30000000000000004,0.2,0.5,2,Red,Night time,498
+0.30000000000000004,0.2,0.5,2,Red,Night time,493
+0.30000000000000004,0.30000000000000004,0.4,2,Red,Night time,546
+0.30000000000000004,0.30000000000000004,0.4,2,Red,Night time,544
+0.30000000000000004,0.30000000000000004,0.4,2,Red,Night time,544
+0.30000000000000004,0.30000000000000004,0.4,2,Red,Night time,543
+0.30000000000000004,0.30000000000000004,0.4,2,Red,Night time,540
+0.30000000000000004,0.4,0.30000000000000004,2,Red,Night time,551
+0.30000000000000004,0.4,0.30000000000000004,2,Red,Night time,552
+0.30000000000000004,0.4,0.30000000000000004,2,Red,Night time,552
+0.30000000000000004,0.4,0.30000000000000004,2,Red,Night time,551
+0.30000000000000004,0.4,0.30000000000000004,2,Red,Night time,546
+0.30000000000000004,0.5,0.2,2,Red,Night time,568
+0.30000000000000004,0.5,0.2,2,Red,Night time,565
+0.30000000000000004,0.5,0.2,2,Red,Night time,567
+0.30000000000000004,0.5,0.2,2,Red,Night time,565
+0.30000000000000004,0.5,0.2,2,Red,Night time,564
+0.30000000000000004,0.6,0.1,2,Red,Night time,568
+0.30000000000000004,0.6,0.1,2,Red,Night time,565
+0.30000000000000004,0.6,0.1,2,Red,Night time,567
+0.30000000000000004,0.6,0.1,2,Red,Night time,565
+0.30000000000000004,0.6,0.1,2,Red,Night time,564
+0.4,0.1,0.5,2,Red,Night time,49
+0.4,0.1,0.5,2,Red,Night time,51
+0.4,0.1,0.5,2,Red,Night time,54
+0.4,0.1,0.5,2,Red,Night time,49
+0.4,0.1,0.5,2,Red,Night time,52
+0.4,0.2,0.4,2,Red,Night time,50
+0.4,0.2,0.4,2,Red,Night time,53
+0.4,0.2,0.4,2,Red,Night time,54
+0.4,0.2,0.4,2,Red,Night time,51
+0.4,0.2,0.4,2,Red,Night time,57
+0.4,0.30000000000000004,0.30000000000000004,2,Red,Night time,231
+0.4,0.30000000000000004,0.30000000000000004,2,Red,Night time,237
+0.4,0.30000000000000004,0.30000000000000004,2,Red,Night time,217
+0.4,0.30000000000000004,0.30000000000000004,2,Red,Night time,222
+0.4,0.30000000000000004,0.30000000000000004,2,Red,Night time,222
+0.4,0.4,0.2,2,Red,Night time,240
+0.4,0.4,0.2,2,Red,Night time,254
+0.4,0.4,0.2,2,Red,Night time,233
+0.4,0.4,0.2,2,Red,Night time,241
+0.4,0.4,0.2,2,Red,Night time,241
+0.4,0.5,0.1,2,Red,Night time,297
+0.4,0.5,0.1,2,Red,Night time,319
+0.4,0.5,0.1,2,Red,Night time,307
+0.4,0.5,0.1,2,Red,Night time,315
+0.4,0.5,0.1,2,Red,Night time,306
+0.5,0.1,0.4,2,Red,Night time,0
+0.5,0.1,0.4,2,Red,Night time,0
+0.5,0.1,0.4,2,Red,Night time,0
+0.5,0.1,0.4,2,Red,Night time,0
+0.5,0.1,0.4,2,Red,Night time,0
+0.5,0.2,0.30000000000000004,2,Red,Night time,0
+0.5,0.2,0.30000000000000004,2,Red,Night time,0
+0.5,0.2,0.30000000000000004,2,Red,Night time,0
+0.5,0.2,0.30000000000000004,2,Red,Night time,0
+0.5,0.2,0.30000000000000004,2,Red,Night time,0
+0.5,0.30000000000000004,0.2,2,Red,Night time,3
+0.5,0.30000000000000004,0.2,2,Red,Night time,0
+0.5,0.30000000000000004,0.2,2,Red,Night time,2
+0.5,0.30000000000000004,0.2,2,Red,Night time,3
+0.5,0.30000000000000004,0.2,2,Red,Night time,1
+0.5,0.4,0.1,2,Red,Night time,39
+0.5,0.4,0.1,2,Red,Night time,45
+0.5,0.4,0.1,2,Red,Night time,48
+0.5,0.4,0.1,2,Red,Night time,43
+0.5,0.4,0.1,2,Red,Night time,47
+0.6,0.1,0.30000000000000004,2,Red,Night time,0
+0.6,0.1,0.30000000000000004,2,Red,Night time,0
+0.6,0.1,0.30000000000000004,2,Red,Night time,0
+0.6,0.1,0.30000000000000004,2,Red,Night time,0
+0.6,0.1,0.30000000000000004,2,Red,Night time,0
+0.6,0.2,0.2,2,Red,Night time,0
+0.6,0.2,0.2,2,Red,Night time,0
+0.6,0.2,0.2,2,Red,Night time,0
+0.6,0.2,0.2,2,Red,Night time,0
+0.6,0.2,0.2,2,Red,Night time,0
+0.6,0.30000000000000004,0.1,2,Red,Night time,0
+0.6,0.30000000000000004,0.1,2,Red,Night time,0
+0.6,0.30000000000000004,0.1,2,Red,Night time,0
+0.6,0.30000000000000004,0.1,2,Red,Night time,0
+0.6,0.30000000000000004,0.1,2,Red,Night time,0
+0.7,0.1,0.2,2,Red,Night time,0
+0.7,0.1,0.2,2,Red,Night time,0
+0.7,0.1,0.2,2,Red,Night time,0
+0.7,0.1,0.2,2,Red,Night time,0
+0.7,0.1,0.2,2,Red,Night time,0
+0.7,0.2,0.1,2,Red,Night time,0
+0.7,0.2,0.1,2,Red,Night time,0
+0.7,0.2,0.1,2,Red,Night time,0
+0.7,0.2,0.1,2,Red,Night time,0
+0.7,0.2,0.1,2,Red,Night time,0
+0.7999999999999999,0.1,0.1,2,Red,Night time,0
+0.7999999999999999,0.1,0.1,2,Red,Night time,0
+0.7999999999999999,0.1,0.1,2,Red,Night time,0
+0.7999999999999999,0.1,0.1,2,Red,Night time,0
+0.7999999999999999,0.1,0.1,2,Red,Night time,0
