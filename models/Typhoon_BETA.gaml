@@ -1326,7 +1326,7 @@ experiment batchTest type: batch repeat: 2 keep_seed: true until: empty(rescuers
 	}	
 }
 
-
+ 
 //THIS IS THE WORKING BATCH EXPERIMENT
 experiment batchT type: batch repeat: 5 keep_seed: true until: (rescuersBackToStartingPoint >= nb_rescuers_init) or 
 (weight_CDM+weight_HRF+weight_CRF > 1.0) or (weight_CDM+weight_HRF+weight_CRF < 1.0) {
